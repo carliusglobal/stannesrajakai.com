@@ -256,7 +256,7 @@
 							</li>
 	                        <li aria-hidden="true" class="uk-cover uk-height-viewport tm-wrap">
 	                        	<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAEOCAYAAABRmsRnAAACDUlEQVR4nO3BMQEAAADCoPVPbQo/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZep3AAEMQQcfAAAAAElFTkSuQmCC" alt='' style="width:100%;height:auto;">
-	                        	<iframe data-uk-cover="{}" style="pointer-events: none; width: 1583px; height: 891px;" class="uk-position-absolute" data-player-id="sw-1" src="http://www.youtube.com/embed/gPyn5ToPlFw?autoplay=1&amp;loop=1&amp;controls=0&amp;showinfo=0&amp;start=0&amp;playlist=FoRmhWxmj70&amp;wmode=transparent&amp;vq=hd1080&amp;enablejsapi=1&amp;api=1&amp;player_id=sw-1&amp;enablejsapi=1&amp;api=1" allowfullscreen="" height="270" width="480"></iframe>
+	                        	<iframe data-uk-cover="{}" style="pointer-events: none; width: 1583px; height: 891px;" class="uk-position-absolute" data-player-id="sw-1" src="https://www.youtube.com/embed/gPyn5ToPlFw?autoplay=1&amp;loop=1&amp;controls=0&amp;showinfo=0&amp;start=0&amp;playlist=FoRmhWxmj70&amp;wmode=transparent&amp;vq=hd1080&amp;enablejsapi=1&amp;api=1&amp;player_id=sw-1&amp;enablejsapi=1&amp;api=1" allowfullscreen="" height="270" width="480"></iframe>
 							</li>
 	                    </ul>
 	                    <a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous"></a>
@@ -536,13 +536,13 @@
                             </div>
                             <div class="tweet_data">
 			        			RT 
-                                <a href="http://twitter.com/Scripture_Truth" target="_blank" rel="nofollow">@Scripture_Truth</a>: Consider it pure joy, whenever u face trials of many kinds, because u know that the testing of your faith develops perseverance. -Jame 1:2			        	
+                                <a href="https://twitter.com/Scripture_Truth" target="_blank" rel="nofollow">@Scripture_Truth</a>: Consider it pure joy, whenever u face trials of many kinds, because u know that the testing of your faith develops perseverance. -Jame 1:2			        	
                             </div>
                             <br>
                             <div class="clear"></div>
                             <div class="times">
                                 <em>
-                                    <a href="http://www.twitter.com/SET_g47" target="_blank" title="Follow SET on Twitter [Opens new window]">4 months ago</a>
+                                    <a href="https://www.twitter.com/SET_g47" target="_blank" title="Follow SET on Twitter [Opens new window]">4 months ago</a>
                                 </em>
                             </div>
                             <div class="clear"></div>
@@ -556,13 +556,13 @@
                             </div>
                             <div class="tweet_data">
 		        				RT 
-                                <a href="http://twitter.com/BibleIsGodsWord" target="_blank" rel="nofollow">@BibleIsGodsWord</a>: Luke 21:33 - Heaven and earth will pass away, but my words will not pass away.			        	
+                                <a href="https://twitter.com/BibleIsGodsWord" target="_blank" rel="nofollow">@BibleIsGodsWord</a>: Luke 21:33 - Heaven and earth will pass away, but my words will not pass away.			        	
                             </div>
                             <br>
                             <div class="clear"></div>
                         	<div class="times">
                                 <em>
-                                    <a href="http://www.twitter.com/SET_g47" target="_blank" title="Follow SET on Twitter [Opens new window]">4 months ago</a>
+                                    <a href="https://www.twitter.com/SET_g47" target="_blank" title="Follow SET on Twitter [Opens new window]">4 months ago</a>
                                 </em>
                             </div>
                             <div class="clear"></div>
@@ -576,15 +576,15 @@
                             </div>
                             <div class="tweet_data">
 	        					RT 
-                                <a href="http://twitter.com/BibleIsGodsWord" target="_blank" rel="nofollow">@BibleIsGodsWord</a>: Matt. 8:8 - “Lord, I am not worthy to have you enter under my roof;
+                                <a href="https://twitter.com/BibleIsGodsWord" target="_blank" rel="nofollow">@BibleIsGodsWord</a>: Matt. 8:8 - “Lord, I am not worthy to have you enter under my roof;
 only say the word and my servant will be healed." 
-                                <a href="http://t.co/uqfknirNPw" target="_blank" rel="nofollow">http://t.co/uqfknirNPw</a>
+                                <a href="https://t.co/uqfknirNPw" target="_blank" rel="nofollow">https://t.co/uqfknirNPw</a>
                             </div>
                             <br>
                             <div class="clear"></div>
                             <div class="times">
                                 <em>
-                                    <a href="http://www.twitter.com/SET_g47" target="_blank" title="Follow SET on Twitter [Opens new window]">4 months ago</a>
+                                    <a href="https://www.twitter.com/SET_g47" target="_blank" title="Follow SET on Twitter [Opens new window]">4 months ago</a>
                                 </em>
                             </div>
                             <div class="clear"></div>
@@ -1342,16 +1342,16 @@ only say the word and my servant will be healed."
                     <h3 class="uk-panel-title">Links</h3>
                     <ul class="footer-links">
                         <li>
-                            <a href="http://www.facebook.com" target="_blank">In vitae velit mauris</a>
+                            <a href="https://www.facebook.com" target="_blank">In vitae velit mauris</a>
                         </li>
                         <li>
-                            <a href="http://twitter.com/" target="_blank">Lorem ipsum dolor</a>
+                            <a href="https://twitter.com/" target="_blank">Lorem ipsum dolor</a>
                         </li>
                         <li>
-                            <a href="http://plus.google.com/" target="_blank">Donec vitae tortor</a>
+                            <a href="https://plus.google.com/" target="_blank">Donec vitae tortor</a>
                         </li>
                         <li>
-                            <a href="http://www.linkedin.com" target="_blank">Donec magna sapien</a>
+                            <a href="https://www.linkedin.com" target="_blank">Donec magna sapien</a>
                         </li>
                     </ul>
                 </div>
@@ -1408,19 +1408,19 @@ only say the word and my servant will be healed."
                 <div class="uk-panel uk-hidden-medium uk-hidden-small tm-p-medium  widget_text">
                     <div class="tm-text-right">
                         <ul class="social-icons">
-                            <li><a href="http://www.facebook.com" target="_blank"><i class="uk-icon-facebook-f"></i></a>
+                            <li><a href="https://www.facebook.com" target="_blank"><i class="uk-icon-facebook-f"></i></a>
                             </li>
-                            <li><a href="http://twitter.com/" target="_blank"><i class="uk-icon-twitter"></i></a>
+                            <li><a href="https://twitter.com/" target="_blank"><i class="uk-icon-twitter"></i></a>
                             </li>
-                            <li><a href="http://plus.google.com/" target="_blank"><i class="uk-icon-google-plus"></i></a>
+                            <li><a href="https://plus.google.com/" target="_blank"><i class="uk-icon-google-plus"></i></a>
                             </li>
-                            <li><a href="http://www.linkedin.com" target="_blank"><i class="uk-icon-linkedin"></i></a>
+                            <li><a href="https://www.linkedin.com" target="_blank"><i class="uk-icon-linkedin"></i></a>
                             </li>
-                            <li><a href="http://www.youtube.com/" target="_blank"><i class="uk-icon-youtube"></i></a>
+                            <li><a href="https://www.youtube.com/" target="_blank"><i class="uk-icon-youtube"></i></a>
                             </li>
-                            <li><a href="http://vk.com/" target="_blank"><i class="uk-icon-vk"></i></a>
+                            <li><a href="https://vk.com/" target="_blank"><i class="uk-icon-vk"></i></a>
                             </li>
-                            <li><a href="http://instagram.com/" target="_blank"><i class="uk-icon-instagram"></i></a>
+                            <li><a href="https://instagram.com/" target="_blank"><i class="uk-icon-instagram"></i></a>
                             </li>
                         </ul>
                     </div>
