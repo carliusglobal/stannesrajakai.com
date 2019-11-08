@@ -19,7 +19,7 @@
 				<div class="uk-grid">
 					<!-- Start adress widget area -->
 					<div class="uk-width-small-1-1 uk-width-medium-1-3 uk-width-large-1-3 tm-text-left">
-						<img src="<?=asset_url();?>images/annielogo.png"/>
+						<img width="65" height="70" src="<?=asset_url();?>images/greatlogo.png"/>
 					</div>
 					<!-- End adress widget area -->
 					<!-- Start top-logo widget area -->
