@@ -20,7 +20,7 @@
 													<div class="imageslider-background"><h3 class="slide-head">புனித அன்னம்மாள் ஆலயம், இரஜகை</h3></div><br>
 													<div class="imageslider-background"><h3 class="slide-head"></h3>St Annes Church, Rajakai </div>
 												</div>
-												<!--<a href="sermons.html" class="tm-imageslider-button color-light">More&nbsp;<i class="uk-icon-long-arrow-right"></i></a>-->
+												<a href="/index.php/parishhistory" class="tm-imageslider-button color-light">Parish&nbsp;History<i class="uk-icon-long-arrow-right"></i></a>-->
 											</div>
 										</div>
 									</div>

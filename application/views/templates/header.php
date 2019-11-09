@@ -56,23 +56,12 @@
 									<a href="/" class="">HOME</a>
 								</li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="/index.php/massandnovena" class="">MASS AND NOVENA</a></li>
+									<a href="/index.php/parishhistory" class="">PARISH HISTORY</a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="/index.php/event" class="">EVENT</a>
-									<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
-										<div class="uk-grid uk-dropdown-grid">
-											<div class="uk-width-1-1">
-												<ul class="uk-nav uk-nav-navbar">
-													<li>
-														<a href="/index.php/eventlist" class="">EVENT LIST</a>
-													</li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</li>
+									<a href="/index.php/massandnovena" class="">MASS AND NOVENA</a></li>
+								
 									<li>
-										<a href="/index.php/sermons" class="">SERMONS</a>
+										<a href="/index.php/sermons" class="">EVENTS</a>
 									</li>
 									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 										<a href="blog.html" class="">BLOG</a>
@@ -96,9 +85,6 @@
 									</li>
 									<li>
 										<a href="gallery.html" class="">GALLERY</a>
-									</li>
-									<li>
-										<a href="shop.html" class="">SHOP</a>
 									</li>
 									<li>
 										<a href="contact-us.html" class="">CONTACT US</a>
