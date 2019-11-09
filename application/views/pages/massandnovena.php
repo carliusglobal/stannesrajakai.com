@@ -19,7 +19,7 @@
                                 <div class="uk-width-medium-1-2">
                                     <a class="uk-thumbnail uk-overlay-hover" href="#">
                                         <figure class="uk-overlay">
-                                            <img src="./images/placeholder.svg" alt="300x110" />
+                                            <img src="<?=asset_url();?>/images/placeholder.svg" alt="300x110" />
                                             <div class="uk-overlay-panel uk-overlay-icon uk-overlay-background uk-overlay-fade"></div>
                                         </figure>
                                         <div class="uk-thumbnail-caption">Caption</div>
@@ -28,7 +28,7 @@
                                 <div class="uk-width-medium-1-2">
                                     <a class="uk-thumbnail uk-overlay-hover" href="#">
                                         <figure class="uk-overlay">
-                                            <img src="./images/placeholder.svg" alt="300x110" />
+                                            <img src="<?=asset_url();?>/images/placeholder.svg" alt="300x110" />
                                             <div class="uk-overlay-panel uk-overlay-background uk-overlay-bottom uk-overlay-slide-bottom">Overlay</div>
                                         </figure>
                                         <div class="uk-thumbnail-caption">Caption</div>
