@@ -53,21 +53,7 @@
 							<!--tm-navbar (hide defolt styles) -->
 							<ul class="uk-navbar-nav uk-hidden-small">
 								<li class="uk-parent uk-active" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="index.html" class="">HOME</a>
-									<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
-										<div class="uk-grid uk-dropdown-grid">
-											<div class="uk-width-1-1">
-												<ul class="uk-nav uk-nav-navbar">
-													<li>
-														<a href="index-home2.html" class="">HOME 2</a>
-													</li>
-													<li>
-														<a href="index-home3.html" class="">HOME 3</a>
-													</li>
-												</ul>
-											</div>
-										</div>
-									</div>
+									<a href="/" class="">HOME</a>
 								</li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="about-us.html" class="">ABOUT US</a>
@@ -188,16 +174,16 @@
 	                	<ul class="uk-slideshow uk-overlay-active">
 	                        <li aria-hidden="false" class="uk-cover uk-height-viewport  tm-wrap uk-active">
 	                        	<div class="uk-cover-background uk-position-cover"></div>
-	                        	<img src="<?=asset_url();?>images/slider-img-07.jpg" alt="slider-img-04" class="aligncenter size-full wp-image-631" height="960" width="1920">
+	                        	<img src="<?=asset_url();?>images/slider-img-07.jpeg" alt="slider-img-04" class="aligncenter size-full wp-image-631" height="960" width="1920">
 								<div class="uk-overlay-panel uk-overlay-right uk-overlay-slide-left uk-flex uk-flex-center uk-flex-middle uk-width-1-1">
 									<div class="uk-container uk-container-center tm-full-width">
 										<div class=" tm-wrap">
 											<div class="tm-slide-style-1 uk-width-1-1">
 												<div class="">
-													<div class="imageslider-background"><h3 class="slide-head">Responsive Church</h3></div><br>
-													<div class="imageslider-background"><h3 class="slide-head">HTML Theme</h3></div>
+													<div class="imageslider-background"><h3 class="slide-head">புனித அன்னம்மாள் ஆலயம், இரஜகை</h3></div><br>
+													<div class="imageslider-background"><h3 class="slide-head"></h3>St Annes Church, Rajakai </div>
 												</div>
-												<a href="sermons.html" class="tm-imageslider-button color-light">More&nbsp;<i class="uk-icon-long-arrow-right"></i></a>
+												<!--<a href="sermons.html" class="tm-imageslider-button color-light">More&nbsp;<i class="uk-icon-long-arrow-right"></i></a>-->
 											</div>
 										</div>
 									</div>
@@ -205,7 +191,7 @@
 							</li>
 	                        <li aria-hidden="true" class="uk-cover uk-height-viewport tm-wrap">
 	                        	<div class="uk-cover-background uk-position-cover"></div>
-	                        	<img src="<?=asset_url();?>images/slider-img-06.jpg" alt="slider-img-06" class="aligncenter size-full wp-image-630" height="960" width="1920">
+	                        	<img src="<?=asset_url();?>images/slider-img-06.jpeg" alt="slider-img-06" class="aligncenter size-full wp-image-630" height="960" width="1920">
 								<div class="uk-overlay-panel uk-overlay-right uk-overlay-slide-right uk-flex uk-flex-center uk-flex-middle uk-width-1-1">
 									<div class="uk-container uk-container-center tm-full-width">
 										<div class=" tm-wrap">
@@ -222,7 +208,7 @@
 							</li>
 	                        <li aria-hidden="true" class="uk-cover uk-height-viewport tm-wrap">
 	                        	<div class="uk-cover-background uk-position-cover"></div>
-	                        	<img src="<?=asset_url();?>images/slider-img-01.jpg" alt="slider-img-01" class="aligncenter size-full wp-image-629" height="960" width="1920">
+	                        	<img src="<?=asset_url();?>images/slider-img-01.jpeg" alt="slider-img-01" class="aligncenter size-full wp-image-629" height="960" width="1920">
 								<div class="uk-overlay-panel uk-overlay-right uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-width-1-1">
 									<div class="uk-container uk-container-center tm-full-width">
 										<div class=" tm-wrap">
@@ -239,7 +225,7 @@
 							</li>
 	                		<li aria-hidden="true" class="uk-cover uk-height-viewport tm-wrap">
 	                			<div class="uk-cover-background uk-position-cover"></div>
-	                			<img src="<?=asset_url();?>images/slider-img-04.jpg" alt="slider-img-05" class="aligncenter size-full wp-image-675" height="960" width="1920">
+	                			<img src="<?=asset_url();?>images/slider-img-04.jpeg" alt="slider-img-05" class="aligncenter size-full wp-image-675" height="960" width="1920">
 								<div class="uk-overlay-panel uk-overlay-right uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-width-1-1">
 									<div class="uk-container uk-container-center tm-full-width">
 										<div class=" tm-wrap">
@@ -256,7 +242,7 @@
 							</li>
 	                        <li aria-hidden="true" class="uk-cover uk-height-viewport tm-wrap">
 	                        	<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAEOCAYAAABRmsRnAAACDUlEQVR4nO3BMQEAAADCoPVPbQo/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZep3AAEMQQcfAAAAAElFTkSuQmCC" alt='' style="width:100%;height:auto;">
-	                        	<iframe data-uk-cover="{}" style="pointer-events: none; width: 1583px; height: 891px;" class="uk-position-absolute" data-player-id="sw-1" src="https://www.youtube.com/embed/gPyn5ToPlFw?autoplay=1&amp;loop=1&amp;controls=0&amp;showinfo=0&amp;start=0&amp;playlist=FoRmhWxmj70&amp;wmode=transparent&amp;vq=hd1080&amp;enablejsapi=1&amp;api=1&amp;player_id=sw-1&amp;enablejsapi=1&amp;api=1" allowfullscreen="" height="270" width="480"></iframe>
+	                        	<iframe data-uk-cover="{}" style="pointer-events: none; width: 1583px; height: 891px;" class="uk-position-absolute" data-player-id="sw-1" src="https://www.youtube.com/embed/slNcqdxdiVc" allowfullscreen="" height="270" width="480"></iframe>
 							</li>
 	                    </ul>
 	                    <a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous"></a>
