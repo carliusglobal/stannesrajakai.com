@@ -10,8 +10,7 @@
                         <div class="main-heading">
                             <h1 class="tm-page-title">Live TV</h1>
                         </div>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/YMVCcgCX_d8" width="560" height="349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+                       <iframe style=" width: 1080px;height: 780px;margin: 0 auto;background-color: #777;display:block;" src="https://www.youtube.com/embed/YMVCcgCX_d8" width="560" height="349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                     </div>
                         <!-- #content -->
