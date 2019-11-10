@@ -56,6 +56,8 @@
 									<a href="/" class="">HOME</a>
 								</li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
+									<a href="/index.php/livetv" class="">LIVE TV</a></li>
+								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="/index.php/parishhistory" class="">PARISH HISTORY</a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="/index.php/massandnovena" class="">MASS AND NOVENA</a></li>
