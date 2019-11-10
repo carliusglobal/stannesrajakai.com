@@ -63,7 +63,7 @@
 									<a href="/index.php/massandnovena" class="">MASS AND NOVENA</a></li>
 								
 									<li>
-										<a href="/index.php/sermons" class="">EVENTS</a>
+										<a href="/index.php/event" class="">EVENT</a>
 									</li>
 									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 										<a href="blog.html" class="">BLOG</a>

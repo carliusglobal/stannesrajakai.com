@@ -18,9 +18,17 @@
 											<div class="tm-slide-style-1 uk-width-1-1">
 												<div class="">
 													<div class="imageslider-background"><h3 class="slide-head">புனித அன்னம்மாள் ஆலயம், இரஜகை</h3></div><br>
-													<div class="imageslider-background"><h3 class="slide-head"></h3>St Annes Church, Rajakai </div>
+													<div class="imageslider-background"><h3 class="slide-head"></h3>
+                                                    இன்று November 10, 2019 பரலோக அன்னை விழி திறந்த விழாவை கொண்டாடும் இந்நன்னாளில் மதிய செப வழிபாடு (12:00 to 14:00 pm) மற்றும் தேர் பவனி மாலை 7:00 pm ஆடம்பர கூட்டு திருப்பலி & விருந்து 
+                                                    <br/>
+                                                    நிகழ்ச்சிகளை நேரலையில் நமது ஊர் websiteல் காண ஏற்பாடு செய்யப்பட்டுள்ளது.  
+                                                    <br/>
+                                                    <a href="/index.php/event">Read More...</a>
+                                                    <br/>
+                                                    </div>
+
 												</div>
-												<a href="/index.php/parishhistory" class="tm-imageslider-button color-light">Parish&nbsp;History<i class="uk-icon-long-arrow-right"></i></a>-->
+												<a href="/index.php/livetv" class="tm-imageslider-button color-light">Click&nbsp;Here&nbsp;for&nbsp;Live&nbsp;telecast <i class="uk-icon-long-arrow-right"></i></a>
 											</div>
 										</div>
 									</div>
