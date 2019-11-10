@@ -42,10 +42,10 @@
 										<div class=" tm-wrap">
 											<div class="tm-slide-style-2 uk-width-1-1">
 												<div class="">
-													<div class="imageslider-background"><h3 class="slide-head">Responsive Church</h3></div><br>
-													<div class="imageslider-background"><h3 class="slide-head">HTML Theme</h3></div>
+													<div class="imageslider-background"><h3 class="slide-head">St Annes Church, Rajakai</h3></div><br>
+													<div class="imageslider-background"><h3 class="slide-head">Welcome</h3></div>
 												</div>
-												<a href="sermons.html" class="tm-imageslider-button color-light">More&nbsp;<i class="uk-icon-long-arrow-right"></i></a>
+												<a href="/" class="tm-imageslider-button color-light">More&nbsp;<i class="uk-icon-long-arrow-right"></i></a>
 											</div>
 										</div>
 									</div>
@@ -59,10 +59,10 @@
 										<div class=" tm-wrap">
 											<div class="tm-slide-style-1 uk-width-7-10">
 												<div class="uk-overlay-background tm-p-10">
-													<div class="slide-text-primary tm-heading-font">“I believe the Bible is the best gift God has ever given to man ...”</div>
-													<h3 class="slide-head">Abraham Lincoln</h3>
+													<div class="slide-text-primary tm-heading-font">St Annes Church, Rajakai</div>
+													<h3 class="slide-head">Welcome</h3>
 												</div>
-												<a href="sermons.html" class="tm-imageslider-button color-light">More&nbsp;<i class="uk-icon-long-arrow-right"></i></a>
+												<a href="/" class="tm-imageslider-button color-light">More&nbsp;<i class="uk-icon-long-arrow-right"></i></a>
 											</div>
 										</div>
 									</div>
