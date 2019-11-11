@@ -53,17 +53,17 @@
 							<!--tm-navbar (hide defolt styles) -->
 							<ul class="uk-navbar-nav uk-hidden-small">
 								<li class="uk-parent uk-active" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="/" class="">HOME</a>
+									<a href="<?=base_url();?>" class="">HOME</a>
 								</li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="/index.php/livetv" class="">LIVE TV</a></li>
+									<a href="<?=base_url();?>index.php/livetv" class="">LIVE TV</a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="/index.php/parishhistory" class="">PARISH HISTORY</a></li>
+									<a href="<?=base_url();?>index.php/parishhistory" class="">PARISH HISTORY</a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="/index.php/massandnovena" class="">MASS AND NOVENA</a></li>
+									<a href="<?=base_url();?>index.php/massandnovena" class="">MASS AND NOVENA</a></li>
 								
 									<li>
-										<a href="/index.php/event" class="">EVENT</a>
+										<a href="<?=base_url();?>index.php/event" class="">EVENT</a>
 									</li>
 									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 										<a href="blog.html" class="">BLOG</a>
