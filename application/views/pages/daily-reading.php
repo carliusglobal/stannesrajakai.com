@@ -17,14 +17,10 @@ $file = "http://www.usccb.org/bible/readings/".$reading_date.".cfm";
 $content = file_get_contents($file);
 $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
-$day = date('l');
+$reading_date = date_create($reading_date)
+$reading_day = date_format($reading_date,"l");
 
-echo "<pre>";
-print_r($second_step);
-echo "</pre>";
-
-
-if($day=="Sunday") {
+if($reading_day=="Sunday") {
     echo $second_step[3];
     echo $second_step[7];
     echo $second_step[9];
