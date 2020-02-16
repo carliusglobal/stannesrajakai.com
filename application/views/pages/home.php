@@ -106,7 +106,7 @@
 		<!-- end full width -->
 	</section>
 </div>
-<!--
+
 <div class="tm-top-a-box tm-dark-pattern-bg">
     <div class="uk-container uk-container-center">
         <section class="tm-top-a uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
@@ -180,6 +180,7 @@
         </section>
     </div>
 </div>
+<!--
 <div class="tm-top-b-box tm-light-bg">
     <div class="uk-container uk-container-center">
         <section class="tm-top-b uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
