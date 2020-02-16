@@ -21,7 +21,8 @@ $day = date('l');
 
 echo "<pre>";
 print_r($second_step);
-echo "</pre>"
+echo "</pre>";
+
 
 if($day=="Sunday") {
     echo $second_step[3];
