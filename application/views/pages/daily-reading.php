@@ -14,8 +14,10 @@
 <?php
 $file = "http://www.usccb.org/bible/readings/021620.cfm";
 $contents = file_get_contents($file);
+$first_step = explode( '<div id="contentarea">' , $content );
+$second_step = explode("</div>" , $first_step[1] );
 
-echo $contents;
+echo $second_step[0];
 ?>
                     </div>
                         <!-- #content -->
