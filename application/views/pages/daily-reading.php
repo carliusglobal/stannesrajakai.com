@@ -19,18 +19,26 @@ $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
 $day = date('l');
 
-echo "<pre>";
-print_r($second_step);
-echo "</pre>";
-
-
 if($day=="Sunday") {
     echo $second_step[3];
+    echo $second_step[7];
     echo $second_step[9];
     echo $second_step[13];
     echo $second_step[17];
+    echo $second_step[19];
     echo $second_step[23];
 }
+else {
+    echo $second_step[3];
+    echo $second_step[7];
+    echo $second_step[9];
+    echo $second_step[13];
+    echo $second_step[17];
+    echo $second_step[21];   
+}
+
+
+
 
 ?>
                     </div>
