@@ -13,7 +13,7 @@
                         <div id="content" role="main">
 <?php
 $file = "http://www.usccb.org/bible/readings/021620.cfm";
-$contents = preg_match("/^http/", $file) ? http_get_contents($file) : file_get_contents($file);
+$contents = file_get_contents($file);
 
 echo $contents;
 ?>
