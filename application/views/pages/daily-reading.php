@@ -17,7 +17,7 @@ $content = file_get_contents($file);
 $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
 echo "<pre>";
-print_r($second_step[4]);
+print_r($second_step[4][1]);
 //print_r($second_step);
 
 
