@@ -8,7 +8,7 @@
                     
                     <div id="primary" class="site-content post-content">
                         <div class="main-heading">
-                            <h1 class="tm-page-title">Nine Day Novena to St. Ann</h1>
+                            <h1 class="tm-page-title">Daily Readings</h1>
                         </div>
                         <div id="content" role="main">
 <?php
@@ -16,10 +16,14 @@ $file = "http://www.usccb.org/bible/readings/".date("mdy").".cfm";
 $content = file_get_contents($file);
 $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
-echo $second_step[9];
-echo $second_step[13];
-echo $second_step[17];
-echo $second_step[23];
+$day = date('l');
+if($day=="Sunday") {
+    echo $second_step[3];
+    echo $second_step[9];
+    echo $second_step[13];
+    echo $second_step[17];
+    echo $second_step[23];
+}
 
 ?>
                     </div>
