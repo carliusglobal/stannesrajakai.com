@@ -12,9 +12,18 @@
                         </div>
                         <div id="content" role="main">
 <?php
-$file = "http://www.usccb.org/bible/readings/021620.cfm";
-$contents = file_get_contents($file);
-echo $contents;
+$url = "http://www.usccb.org/bible/readings/".date("mdy").".cfm";
+$page = file_get_contents($url);
+$doc = new DOMDocument();
+$doc->loadHTML($page);
+$divs = $doc->getElementsByTagName('div');
+foreach($divs as $div) {
+    // Loop through the DIVs looking for one withan id of "content"
+    // Then echo out its contents (pardon the pun)
+    if ($div->getAttribute('id') === 'contentarea') {
+         echo $div->nodeValue;
+    }
+}
 ?>
                     </div>
                         <!-- #content -->
