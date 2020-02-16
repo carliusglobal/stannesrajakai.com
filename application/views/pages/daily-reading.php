@@ -17,7 +17,7 @@ $file = "http://www.usccb.org/bible/readings/".$reading_date.".cfm";
 $content = file_get_contents($file);
 $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
-$reading_date = date_create($reading_date)
+$reading_date = date_create($reading_date);
 $reading_day = date_format($reading_date,"l");
 
 if($reading_day=="Sunday") {
