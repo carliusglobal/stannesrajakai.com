@@ -20,6 +20,7 @@ CURLOPT_RETURNTRANSFER => true
 
 $output = curl_exec($ch);
 echo $output;
+?>
                     </div>
                         <!-- #content -->
                     </div>
