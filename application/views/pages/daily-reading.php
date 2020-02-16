@@ -12,7 +12,8 @@
                         </div>
                         <div id="content" role="main">
 <?php
-$file = "http://www.usccb.org/bible/readings/".date("mdy").".cfm";
+$reading_date = $_REQUEST['readingdate'];
+$file = "http://www.usccb.org/bible/readings/".$reading_date.".cfm";
 $content = file_get_contents($file);
 $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );

@@ -81,7 +81,7 @@
 										</div>
 									</li>
 									<li>
-										<a href="<?=base_url();?>index.php/daily-reading" class="">DAILY READING</a>
+										<a href="<?=base_url();?>index.php/daily-reading?readingdate=<?=date("mdy")?>" class="">DAILY READING</a>
 									</li>
 									
 								</ul>						
