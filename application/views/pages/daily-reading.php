@@ -16,11 +16,10 @@ $file = "http://www.usccb.org/bible/readings/".date("mdy").".cfm";
 $content = file_get_contents($file);
 $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
-echo "<pre>";
-print_r($first_step);
-echo "=========second ===============";
-print_r($second_step);
-echo "</pre>";
+echo $second_step[9];
+echo $second_step[13];
+echo $second_step[17];
+echo $second_step[23];
 
 ?>
                     </div>
