@@ -137,6 +137,7 @@ if(date("m")=="02") {
                                     </span>
                                 </h4>
                             </div>
+                            <!--
                             <div id="countdowntimer-2-dashboard" class="cutechurch-dashboard">
                                 <div class="cutechurch-dash cutechurch-days_dash">
                                     <div class="cutechurch-dash_title">days</div>
@@ -183,6 +184,7 @@ if(date("m")=="02") {
                                     </div>
                                 </div>
                             </div>
+                        -->
                             <div id="countdowntimer-2-bothtml" class="cutechurch-bothtml"></div>
                         </div>
                     </div>
