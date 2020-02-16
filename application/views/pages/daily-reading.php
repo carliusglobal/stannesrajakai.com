@@ -18,14 +18,16 @@ $content = file_get_contents($file);
 $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
 
+$reading_month = "";
 $reading_month = (string)$reading_date[0].$reading_date[1];
+$reading_date = "";
 $reading_date = (string)$reading_date[2].$reading_date[3];
+$reading_year = "";
 $reading_year = (string)"20".$reading_date[4].$reading_date[5];
+$reading_date_string = "";
 $reading_date_string = (string)$reading_year."/".$reading_month."/".$reading_date;
 $reading_time_input = strtotime($reading_date_string);  
 $reading_date_input = getDate($reading_time_input);  
-
-
 
 if($reading_date_input["weekday"]=="Sunday") {
     echo $second_step[3];
