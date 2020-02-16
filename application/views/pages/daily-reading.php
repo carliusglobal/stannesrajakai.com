@@ -12,14 +12,12 @@
                         </div>
                         <div id="content" role="main">
 <?php
-$url = "http://www.usccb.org/bible/readings/".date("mdy").".cfm";
-$page = file_get_contents($url);
-$doc = new DOMDocument();
-$doc->loadHTML($page);
-$divs = $doc->getElementsByTagName('div');
-foreach($divs as $div) {
-    echo $book->nodeValue, PHP_EOL;
-}
+$file = "http://www.usccb.org/bible/readings/".date("mdy").".cfm";
+$content = file_get_contents($file);
+$first_step = explode( '<div class="contentarea">' , $content );
+$second_step = explode("</div>" , $first_step[1] );
+echo $second_step[0];
+
 ?>
                     </div>
                         <!-- #content -->
