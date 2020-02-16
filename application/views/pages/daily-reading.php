@@ -19,7 +19,7 @@ $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
 $reading_date = date_create($reading_date);
 $reading_day = date_format($reading_date,"l");
-
+echo $reading_day ;
 if($reading_day=="Sunday") {
     echo $second_step[3];
     echo $second_step[7];
