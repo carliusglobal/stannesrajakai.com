@@ -106,7 +106,7 @@
 		<!-- end full width -->
 	</section>
 </div>
-
+<!--
 <div class="tm-top-a-box tm-dark-pattern-bg">
     <div class="uk-container uk-container-center">
         <section class="tm-top-a uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
@@ -470,11 +470,11 @@ only say the word and my servant will be healed."
                                                 </div>
                                                 <div class="progress-bar">
                                                     <span style="width: 62.95%;background-color:#dd9933"></span>
-                                                </div>
+                                                </div-->
                                                 <!-- /.progress-bar -->
-                                            </div>
+                                            <!--</div>-->
                                             <!-- /.goal-progress -->
-                                            <div id="give-form-content-508" class="give-form-content-wrap">
+                                           <!-- <div id="give-form-content-508" class="give-form-content-wrap">
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non pulvinar purus. Nunc elit metus, sollicitudin sed nunc sed, iaculis eleifend turpis. Fusce id placerat massa, vitae venenatis mi. Pellentesque sem eros, elementum et mauris sit amet, eleifend vehicula nisi. Nam non arcu dolor.</p>
                                             </div>
                                             <form id="give-form-508" class="give-form give-form_508" method="post">
@@ -495,10 +495,11 @@ only say the word and my servant will be healed."
                                                     </div>
                                                 </div>
                                                 <button type="button" class="give-btn give-btn-modal">Donate Now</button>
-                                                
+                                                -->
                                                 <!-- the checkout fields are loaded into this-->
-                                            </form>
+                                           <!-- </form>-->
                                             <!--end #give-form-508-->
+                                        <!--
                                         </div>
                                     </div>
                                 </div>
@@ -1156,4 +1157,4 @@ only say the word and my servant will be healed."
             </div>
         </section>
     </div>
-</div>
+</div>-->
