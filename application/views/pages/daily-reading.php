@@ -18,11 +18,7 @@ $doc = new DOMDocument();
 $doc->loadHTML($page);
 $divs = $doc->getElementsByTagName('div');
 foreach($divs as $div) {
-    // Loop through the DIVs looking for one withan id of "content"
-    // Then echo out its contents (pardon the pun)
-    if ($div->getAttribute('id') === 'contentarea') {
-         echo $div->nodeValue;
-    }
+    echo $book->nodeValue, PHP_EOL;
 }
 ?>
                     </div>
