@@ -13,23 +13,26 @@
                         <div id="content" role="main">
 <?php
 $file = "http://www.usccb.org/bible/readings/021620.cfm";
-$content = file_get_contents($file);
-preg_match_all(
-        '/\<\w[^<>]*?\>([^<>]+?\<\/\w+?\>)?|\<\/\w+?\>/i',
-        $content,
-        $matches
-    );
-
-$html = $matches[0];
-
-$heading = $html[0];
-$p = $html[1];
+$contents = file_get_contents($file);
+$doc = new DOMDocument();
+$doc->loadHTML($contents);
+$path=new DOMXpath($doc);
+$dom=$path->query("*/div[@id='contentarea']");
+if (!$dom==0) {
+       foreach ($dom as $dom) {
+          print "
+    The Type of the element is: ". $dom->nodeName. "
+    <b><pre><code>";
+          $getContent = $dom->childNodes;
+          foreach ($getContent as $attr) {
+             print $attr->nodeValue. "</code></pre></b>";
+          }
+       }
+    }
 
 ?>
 
-<div><?php echo $heading; ?></div>
-<div><?php echo $p; ?></div>
-                    </div>
+     </div>
                         <!-- #content -->
                     </div>
                     <!-- #primary -->
