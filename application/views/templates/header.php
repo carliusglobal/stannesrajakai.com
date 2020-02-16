@@ -66,7 +66,7 @@
 										<a href="<?=base_url();?>index.php/event" class="">EVENT</a>
 									</li>
 									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-										<a href="#" class="">Prayers</a>
+										<a href="#" class="">PRAYERS</a>
 										<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
 											<div class="uk-grid uk-dropdown-grid">
 												<div class="uk-width-1-1">
@@ -78,6 +78,9 @@
 												</div>
 											</div>
 										</div>
+									</li>
+									<li>
+										<a href="<?=base_url();?>index.php/daily-reading" class="">DAILY READING</a>
 									</li>
 									
 								</ul>						
