@@ -82,7 +82,7 @@
                                 <br><br>
 
                                 <img width="1024" height="300" src="<?=asset_url();?>/images/stantonys2.jpeg" class="attachment-event-image wp-post-image" alt="NEWS" />
-
+  <br><br>
                                 <!-- .tribe-events-cal-links -->
                             </div>
                          
