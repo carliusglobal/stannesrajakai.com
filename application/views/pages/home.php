@@ -107,6 +107,23 @@
 	</section>
 </div>
 
+<?php
+$feast = "stantonys"
+
+$feast_stt_date[$feast] = "16";
+$feast_stt_month[$feast] = "02";
+$feast_stt_year[$feast] = date("Y");
+
+$feast_end_date[$feast] = "25";
+$feast_end_month[$feast] = "02";
+$feast_end_year[$feast] = date("Y");
+
+?>
+
+
+<?php
+if($feast == "stantonys") {
+?>
 <div class="tm-top-a-box tm-dark-pattern-bg">
     <div class="uk-container uk-container-center">
         <section class="tm-top-a uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
@@ -118,7 +135,7 @@
                                 <h1 class="tm-title tcenter">
                                     <span class="border">Upcoming Event</span>
                                 </h1>
-                                <p>In sollicitudin, ipsum nec auctor malesuada, elit turpis fermentum odio, ac vestibulum dui risus non elit. Quisque varius ex arcu, vitae rhoncus justo lacinia ac. Stibulum dui risus non elit. Quisque varius ex arcu, vitae rhoncus justo lacinia ac. Stibulum dui risus non elit. Quisque varius ex arcu, vitae rhoncus justo lacinia ac.</p>
+                                <p>கோடி அற்புதர் புனித அந்தோணியார் ஆலய திருவிழா <?=$feast_end_year[$feast]?></p>
                                 <h4>
                                     <span class="brackets">
                                         <a href="/" class="tm-color-line">Staff members meet</a>
@@ -180,6 +197,10 @@
         </section>
     </div>
 </div>
+<?php
+}
+?>
+
 <!--
 <div class="tm-top-b-box tm-light-bg">
     <div class="uk-container uk-container-center">
