@@ -69,7 +69,7 @@
             <div class="uk-width-1-1 uk-width-large-1-2">
                 <div class="uk-panel tm-p-medium  widget_text">
                     <div class="tm-text-left">
-                        © 2015 cutechurch. All rights reserved.
+                        © 2020 St Annes Church - Rajakai All rights reserved.
                     </div>
                 </div>
             </div>
