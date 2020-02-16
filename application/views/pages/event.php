@@ -25,6 +25,83 @@
     <div class="uk-grid" data-uk-grid-match data-uk-grid-margin>
         <div class="tm-main uk-width-medium-3-4 tm-middle">
             <main class="tm-content">
+
+
+
+
+
+
+                <div id="tribe-events-pg-template">
+                    <div id="tribe-events" class="tribe-no-js" data-live_ajax="0" data-datepicker_format="0" data-category="">
+                        <div id="tribe-events-content" class="tribe-events-single vevent hentry">
+                            
+
+
+
+                            <!-- Notices -->
+                            <h2 class="tribe-events-single-event-title summary entry-title">பரலோக அன்னை விழி திறந்த விழா</h2>
+              <br/>
+                            <div id="post-211" class="post-211 tribe_events type-tribe_events status-publish has-post-thumbnail tribe_events_cat-classes cat_classes">
+                                <!-- Event featured image, but exclude link -->
+                                <div class="tm-single-event-image">
+                                    <div class="tribe-events-event-image"><img width="1024" height="300" src="<?=asset_url();?>/images/gall-img-006-1024x300.jpg" class="attachment-event-image wp-post-image" alt="NEWS" />
+                                    </div>
+                                    <div class="tm-event-info">
+                                        <div class="post-date">
+                                            <div class="day">
+                                                <span>10</span>
+                                                <p class="">November</p>
+                                                <p class=""></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Event meta -->
+                                <div class="tribe-events-single-section tribe-events-event-meta primary tribe-clearfix">
+                                    <div class="tribe-events-meta-group tribe-events-meta-group-details">
+                                        <br/>
+                                        <h3 class="tribe-events-single-section-title"> Details </h3>
+                                        <dl>
+                                            பரலோக அன்னை விழி திறந்த விழாவை கொண்டாடும் இந்நன்னாளில் 
+மதிய செப வழிபாடு (12:00 to 14:00 pm) மற்றும் தேர் பவனி
+மாலை 7:00 pm ஆடம்பர கூட்டு திருப்பலி & விருந்து 
+                                        </dl>
+                                    </div>
+                                    
+                                </div>
+                                <!-- Event content -->
+                                <div class="tribe-events-single-event-description tribe-events-content entry-content description">
+                                    அன்னை விழி திறந்த விழா
+
+இரஜகிருஷ்ணாபுரம் தூய அன்னம்மாள் தேவாலயத்தில் பரலோக மாதா 2009 நவம்பர் மாதம் பத்தாம் தேதி அன்று மாலை 6.00 மணி அளவில் உறுதிபூசுதல் எடுப்பதற்கு படித்து கொண்டு இருந்த சிறுவர் சிறுமியர்களுக்கு தன்னுடைய கண்களை திறந்து காட்சி அளித்தார்கள். அதன் பிறகு 15 நாட்கள் தொடர்ந்து நிறைய மக்களுக்கு கண்களை திறந்து காட்சி அளித்தார்கள்.
+               
+                                </div>
+                               
+                                <!-- .tribe-events-cal-links -->
+                            </div>
+                         
+                        </div>
+                        <!-- #tribe-events-content -->
+                    </div>
+                    <!-- #tribe-events -->
+                </div>
+                <!-- #tribe-events-pg-template -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
                 <div id="tribe-events-pg-template">
                     <div id="tribe-events" class="tribe-no-js" data-live_ajax="0" data-datepicker_format="0" data-category="">
                         <div id="tribe-events-content" class="tribe-events-single vevent hentry">
