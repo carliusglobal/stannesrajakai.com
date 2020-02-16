@@ -18,6 +18,11 @@ $content = file_get_contents($file);
 $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
 $day = date('l');
+
+echo "<pre>";
+print_r($second_step);
+echo "</pre>"
+
 if($day=="Sunday") {
     echo $second_step[3];
     echo $second_step[9];
