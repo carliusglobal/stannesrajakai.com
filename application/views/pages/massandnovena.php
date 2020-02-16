@@ -21,8 +21,6 @@
     </section>
 </div>
 
-<div class="tm-default-header-offset-bg"></div>  <!-- Start header offset-->
-
 <div class="uk-container uk-container-center">
     <div class="uk-grid" data-uk-grid-match data-uk-grid-margin>
         <div class="tm-main uk-width-medium-1-1 tm-middle">
