@@ -79,12 +79,7 @@
 											</div>
 										</div>
 									</li>
-									<li>
-										<a href="gallery.html" class="">GALLERY</a>
-									</li>
-									<li>
-										<a href="contact-us.html" class="">CONTACT US</a>
-									</li>
+									
 								</ul>						
 								<a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas=""></a>
 						</nav>
