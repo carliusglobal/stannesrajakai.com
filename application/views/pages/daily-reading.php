@@ -13,12 +13,22 @@
                         <div id="content" role="main">
 <?php
 $file = "http://www.usccb.org/bible/readings/021620.cfm";
-$contents = file_get_contents($file);
-$first_step = explode( '<div id="contentarea">' , $contents );
-$second_step = explode("</div>" , $first_step[1] );
+$content = file_get_contents($file);
+preg_match_all(
+        '/\<\w[^<>]*?\>([^<>]+?\<\/\w+?\>)?|\<\/\w+?\>/i',
+        $content,
+        $matches
+    );
 
-echo $second_step[0];
+$html = $matches[0];
+
+$heading = $html[0];
+$p = $html[1];
+
 ?>
+
+<div><?php echo $heading; ?></div>
+<div><?php echo $p; ?></div>
                     </div>
                         <!-- #content -->
                     </div>
