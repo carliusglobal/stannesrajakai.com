@@ -1,7 +1,7 @@
-
+    
 <div class="tm-footer-top-box tm-dark-bg">
+    <!--
     <div class="uk-container uk-container-center">
-        <!-- start full width -->
         <section class="tm-footer-top uk-grid tm-medium-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
 
             <div class="uk-width-1-1 uk-width-large-1-3">
@@ -58,6 +58,7 @@
             </div>
         </section>
     </div>
+    -->
     <!-- end full width -->
 </div>
 
