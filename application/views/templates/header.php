@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="" />
 <meta name="keywords" content="" />
-<title>புனித&nbsp;அன்னம்மாள்&nbsp;ஆலயம்</title>
+<title>புனித&nbsp;அன்னம்மாள்&nbsp;ஆலயம்,&nbsp;இரஜகை</title>
 
 <link href="<?=asset_url();?>css/theme.css" rel="stylesheet" type="text/css" />
 <link href="<?=asset_url();?>css/woocommerce.css" rel="stylesheet" type="text/css" />
