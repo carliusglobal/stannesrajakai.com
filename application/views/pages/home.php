@@ -108,21 +108,16 @@
 </div>
 
 <?php
-$feast = "stantonys"
+if(date("m")=="02") {
+    $feast = "stantonys";
+    $feast_stt_date[$feast] = "16";
+    $feast_stt_month[$feast] = "02";
+    $feast_stt_year[$feast] = date("Y");
 
-$feast_stt_date[$feast] = "16";
-$feast_stt_month[$feast] = "02";
-$feast_stt_year[$feast] = date("Y");
-
-$feast_end_date[$feast] = "25";
-$feast_end_month[$feast] = "02";
-$feast_end_year[$feast] = date("Y");
-
-?>
-
-
-<?php
-if($feast == "stantonys") {
+    $feast_end_date[$feast] = "25";
+    $feast_end_month[$feast] = "02";
+    $feast_end_year[$feast] = date("Y");
+}
 ?>
 <div class="tm-top-a-box tm-dark-pattern-bg">
     <div class="uk-container uk-container-center">
@@ -197,9 +192,7 @@ if($feast == "stantonys") {
         </section>
     </div>
 </div>
-<?php
-}
-?>
+
 
 <!--
 <div class="tm-top-b-box tm-light-bg">
