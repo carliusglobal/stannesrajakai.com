@@ -73,7 +73,7 @@
 												<div class="uk-width-1-1">
 													<ul class="uk-nav uk-nav-navbar">
 														<li>
-															<a href="<?=base_url();?>index.php/novena-english" class="">Novena to St. Ann (English)</a>
+															<a href="<?=base_url();?>index.php/novena-english" class="">Novena to St. Annes</a>
 														</li>
 													</ul>
 												</div>
