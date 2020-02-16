@@ -18,7 +18,7 @@ $first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
 echo "<pre>"
 print_r($first_step[0]);
-echo "</pre>"
+echo "</pre>";
 
 ?>
                     </div>
