@@ -12,6 +12,7 @@
                         </div>
                         <div id="content" role="main">
 <?php
+ini_set( 'error_reporting', E_ALL );
 $reading_date = $_REQUEST['readingdate'];
 $file = "http://www.usccb.org/bible/readings/".$reading_date.".cfm";
 $content = file_get_contents($file);
