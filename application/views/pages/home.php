@@ -136,7 +136,7 @@ if(date("m")=="02") {
                                         <a href="/" class="tm-color-line">Staff members meet</a>
                                     </span>
                                 </h4>
-                                <span class="date"><?=$feast_stt_date[$feast]?>-<?=$feast_stt_month[$feast]?>-<?=$feast_stt_year[$feast]?> to <?=$feast_end_date[$feast]?>-<?=$feast_end_month[$feast]-$feast_end_year[$feast]?></span>
+                                <span class="date"><?=$feast_stt_date[$feast]?>-<?=$feast_stt_month[$feast]?>-<?=$feast_stt_year[$feast]?> to <?=$feast_end_date[$feast]?>-<?=$feast_end_month[$feast]?>-$feast_end_year[$feast]?></span>
                             </div>
                             <div id="countdowntimer-2-dashboard" class="cutechurch-dashboard">
                                 <div class="cutechurch-dash cutechurch-days_dash">
