@@ -12,14 +12,10 @@
                         </div>
                         <div id="content" role="main">
 <?php
-curl_setopt_array(
-$ch, array(
-CURLOPT_URL => "http://www.usccb.org/bible/readings/021620.cfm",
-CURLOPT_RETURNTRANSFER => true
-));
+$file = "http://www.usccb.org/bible/readings/021620.cfm";
+$contents = preg_match("/^http/", $file) ? http_get_contents($file) : file_get_contents($file);
 
-$output = curl_exec($ch);
-echo $output;
+echo $contents;
 ?>
                     </div>
                         <!-- #content -->
