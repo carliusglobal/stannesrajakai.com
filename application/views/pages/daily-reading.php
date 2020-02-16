@@ -14,11 +14,14 @@
 <?php
 $file = "http://www.usccb.org/bible/readings/".date("mdy").".cfm";
 $content = file_get_contents($file);
-$first_step = explode( '<div class="contentarea">' , $content );
+$first_step = explode( '<div id="contentarea" class="readings">' , $content );
 $second_step = explode("</div>" , $first_step[1] );
 echo "<pre>";
-print_r($first_step);
-print_r($second_step);
+print_r($first_step[4]);
+//print_r($second_step);
+
+
+
 
 ?>
                     </div>
