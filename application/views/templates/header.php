@@ -26,10 +26,10 @@
 					<!-- Start top-logo widget area -->
 					<div class="uk-width-small-1-1 uk-width-medium-1-3 uk-width-large-1-3 uk-text-center" style="font-size: 25px">
 						<br/>
-					    புனித&nbsp;அன்னம்மாள்&nbsp;ஆலயம்
+					    புனித&nbsp;அன்னம்மாள்&nbsp;ஆலயம்,&nbsp;இரஜகை
 					    	<br/>
 					    	<br/>
-					    	St. Annes Church
+					    	St. Annes Church, Rajakai
 					</div>
 					<!-- End top-logo widget area -->
 					<!-- Start social-icons & search widget area -->
