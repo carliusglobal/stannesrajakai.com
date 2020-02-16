@@ -66,19 +66,13 @@
 										<a href="<?=base_url();?>index.php/event" class="">EVENT</a>
 									</li>
 									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-										<a href="blog.html" class="">BLOG</a>
+										<a href="#" class="">Prayers</a>
 										<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
 											<div class="uk-grid uk-dropdown-grid">
 												<div class="uk-width-1-1">
 													<ul class="uk-nav uk-nav-navbar">
 														<li>
-															<a href="our-pastors.html" class="">OUR PASTORS</a>
-														</li>
-														<li>
-															<a href="testimonials.html" class="">TESTIMONIALS</a>
-														</li>
-														<li>
-															<a href="faq.html" class="">HELP</a>
+															<a href="<?=base_url();?>index.php/novena-english" class="">Novena to St. Ann (English)</a>
 														</li>
 													</ul>
 												</div>
