@@ -28,6 +28,10 @@
                 <div id="tribe-events-pg-template">
                     <div id="tribe-events" class="tribe-no-js" data-live_ajax="0" data-datepicker_format="0" data-category="">
                         <div id="tribe-events-content" class="tribe-events-single vevent hentry">
+                            
+
+
+
                             <!-- Notices -->
                             <h2 class="tribe-events-single-event-title summary entry-title">பரலோக அன்னை விழி திறந்த விழா</h2>
               <br/>
@@ -69,60 +73,9 @@
                                
                                 <!-- .tribe-events-cal-links -->
                             </div>
-                            <!-- #post-x -->
-                            <div id="Event_Registration" class="uk-modal">
-                                <div class="uk-modal-dialog tm-event-registration">
-                                    <p class="tm-form-title">Register for event: <span>Art lessons for Kids</span>
-                                    </p>
-                                    <a class="uk-modal-close uk-close"></a>
-                                    <div role="form" class="wpcf7" id="wpcf7-f296-o1" lang="en-US" dir="ltr">
-                                        <div class="screen-reader-response"></div>
-                                        <form method="post" class="wpcf7-form" novalidate="novalidate">
-                                            <div style="display: none;">
-                                                <input type="hidden" name="_wpcf7" value="296" />
-                                                <input type="hidden" name="_wpcf7_version" value="4.3" />
-                                                <input type="hidden" name="_wpcf7_locale" value="en_US" />
-                                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f296-o1" />
-                                                <input type="hidden" name="_wpnonce" value="679b6fc057" />
-                                            </div>
-                                            <div class="clearfix">
-                                                <div class="uk-grid uk-grid-small">
-                                                    <div class="uk-grid-width-small-1-1 uk-width-medium-1-3 uk-grid-width-large-1-3">
-                                                        <span class="wpcf7-form-control-wrap text-990"><input type="text" name="text-990" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First name" /></span>
-                                                    </div>
-                                                    <div class="uk-grid-width-small-1-1 uk-width-medium-1-3 uk-grid-width-large-1-3">
-                                                        <span class="wpcf7-form-control-wrap text-271"><input type="text" name="text-271" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Last name" /></span>
-                                                    </div>
-                                                    <div class="uk-grid-width-small-1-1 uk-width-medium-1-3 uk-grid-width-large-1-3">
-                                                        <span class="wpcf7-form-control-wrap email-774"><input type="email" name="email-774" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" /></span>
-                                                    </div>
-                                                    <div class="clearfix"></div>
-                                                    <div class="uk-grid-width-small-1-1 uk-width-medium-1-3 uk-grid-width-large-1-3">
-                                                        <span class="wpcf7-form-control-wrap tel-438"><input type="tel" name="tel-438" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone" /></span>
-                                                    </div>
-                                                    <div class="uk-grid-width-small-1-1 uk-width-medium-1-3 uk-grid-width-large-1-3">
-                                                        <span class="wpcf7-form-control-wrap text-849"><input type="text" name="text-849" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Adress" /></span>
-                                                    </div>
-                                                    <div class="uk-width-medium-1-1 uk-grid-width-large-1-1">
-                                                        <span class="wpcf7-form-control-wrap textarea-431"><textarea name="textarea-431" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Notes"></textarea></span>
-                                                    </div>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <p>
-                                                <input type="submit" value="Sign up" class="wpcf7-form-control wpcf7-submit" />
-                                            </p>
-                                            <div class="wpcf7-response-output wpcf7-display-none"></div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event footer -->
-                            
-
+                         
                         </div>
                         <!-- #tribe-events-content -->
-                        <div class="tribe-events-after-html"></div>
                     </div>
                     <!-- #tribe-events -->
                 </div>
