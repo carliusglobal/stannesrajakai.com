@@ -49,7 +49,7 @@
                                     <div class="tm-event-info">
                                         <div class="post-date">
                                             <div class="day">
-                                                <span>16 to 21</span>
+                                                <span>16</span>
                                                 <p class="">February</p>
                                                 <p class=""></p>
                                             </div>
@@ -71,14 +71,15 @@
                                 <!-- Event content -->
                                 <div class="tribe-events-single-event-description tribe-events-content entry-content description">
                                    1-ம் திருவிழா 16.02.2020 ஞாயிறு மாலை 6 மணி: கொடியேற்றம் நேரலை (live telecast) செய்யப்படும்.
-
+                                   <br><br>
                                     9-ம் திருவிழா 24.02.2020 திங்கள் காலை 6 மணி: திருப்பலி நேரலை செய்யப்படும். மாலை 6:30 மணி: மாலை ஆராதனை நேரலை செய்யப்படும்.
-
+                                   <br><br>     
                                     10-ம் திருவிழா 25.02.2020 காலை 06:30 மணி: திருவிழா திருப்பலி நேரலை செய்யப்படும். மதியம் 12:00 மணிக்கு நடைபெறும் அசன நிகழ்ச்சியும் நேரலை செய்யப்படும்.
-               
+                                <br><br>
                                 </div>
                                
                                 <img width="1024" height="300" src="<?=asset_url();?>/images/stantonys1.jpeg" class="attachment-event-image wp-post-image" alt="NEWS" />
+                                <br><br>
 
                                 <img width="1024" height="300" src="<?=asset_url();?>/images/stantonys2.jpeg" class="attachment-event-image wp-post-image" alt="NEWS" />
 
