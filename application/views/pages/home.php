@@ -5,7 +5,7 @@
 	<section class="tm-slider uk-grid tm-none-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
 	<!-- start full width -->
 		<div class="uk-width-1-1">
-			<div class="uk-panel top-slider-width CuteChurch">        
+			<div class="uk-panel top-slider-width CuteChurch">
 	            <div class="slider-module">
 	            	<div class="uk-slidenav-position" data-uk-slideshow="{height: 'auto', animation: 'fade', duration: '', autoplay: false, autoplayInterval: '6000', videoautoplay: false, videomute: false, kenburns: false}">
 	                	<ul class="uk-slideshow uk-overlay-active">
@@ -110,13 +110,13 @@
 
 <?php
 if(date("m")=="02") {
-    $feast = "stantonys";
-    $feast_stt_date[$feast] = "16";
-    $feast_stt_month[$feast] = "02";
+    $feast = "feast";
+    $feast_stt_date[$feast] = "17";
+    $feast_stt_month[$feast] = "07";
     $feast_stt_year[$feast] = date("Y");
 
-    $feast_end_date[$feast] = "25";
-    $feast_end_month[$feast] = "02";
+    $feast_end_date[$feast] = "26";
+    $feast_end_month[$feast] = "07";
     $feast_end_year[$feast] = date("Y");
 }
 ?>
@@ -131,7 +131,7 @@ if(date("m")=="02") {
                                 <h1 class="tm-title tcenter">
                                     <span class="border">Upcoming Event</span>
                                 </h1>
-                                <p>கோடி அற்புதர் புனித அந்தோணியார் ஆலய திருவிழா <?=$feast_end_year[$feast]?></p>
+                                <p>புனித அன்னம்மாள் ஆலய திருவிழா <?=$feast_end_year[$feast]?></p>
                                 <h4>
                                     <span class="brackets">
                                         <a href="/" class="tm-color-line"><?=$feast_stt_date[$feast]?>-<?=$feast_stt_month[$feast]?>-<?=$feast_stt_year[$feast]?> to <?=$feast_end_date[$feast]?>-<?=$feast_end_month[$feast]?>-<?=$feast_end_year[$feast]?></a>
@@ -230,7 +230,7 @@ if(date("m")=="02") {
                                     <h3 class="uk-panel-header">
                                         <a href="event.html">I am going to send you what</a>
                                     </h3>
-                            		In sollicitudin, ipsum nec auctor malesuada, elit turpis fermentum odio, ac vestibulum dui risus non…                                
+                            		In sollicitudin, ipsum nec auctor malesuada, elit turpis fermentum odio, ac vestibulum dui risus non…
                                     <a href="event.html" class="read-more" rel="bookmark">Read more</a>
                                 </div>
                             </li>
@@ -254,7 +254,7 @@ if(date("m")=="02") {
                                     <h3 class="uk-panel-header">
                                         <a href="event.html">Child Dedications</a>
                                     </h3>
-                       				 Etiam risus mauris, fermentum sit amet metus ut, vulputate ullamcorper est. Aenean ac turpis dui.…                                
+                       				 Etiam risus mauris, fermentum sit amet metus ut, vulputate ullamcorper est. Aenean ac turpis dui.…
                                     <a href="event.html" class="read-more" rel="bookmark">Read more</a>
                                 </div>
                             </li>
@@ -278,7 +278,7 @@ if(date("m")=="02") {
                                     <h3 class="uk-panel-header">
                                         <a href="event.html">Art lessons for Kids</a>
                                     </h3>
-                    				Nullam at varius nulla. Proin ut scelerisque ipsum. Aliquam in mattis leo. In fringilla accumsan…                                
+                    				Nullam at varius nulla. Proin ut scelerisque ipsum. Aliquam in mattis leo. In fringilla accumsan…
                                     <a href="event.html" class="read-more" rel="bookmark">Read more</a>
                                 </div>
                             </li>
@@ -302,7 +302,7 @@ if(date("m")=="02") {
                                     <h3 class="uk-panel-header">
                                         <a href="event.html">Holy shift: Strategic think</a>
                                     </h3>
-                					Praesent lobortis, tellus vel placerat iaculis, neque leo tempus nisi, vitae gravida mi elit gravida…                                
+                					Praesent lobortis, tellus vel placerat iaculis, neque leo tempus nisi, vitae gravida mi elit gravida…
                                     <a href="event.html" class="read-more" rel="bookmark">Read more</a>
                                 </div>
                             </li>
@@ -330,7 +330,7 @@ if(date("m")=="02") {
             </div>
         </section>
     </div>
-</div>	
+</div>
 
 <div class="tm-top-d-box tm-dark-bg">
     <section class="uk-grid-collapse tm-top-d uk-grid tm-none-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
@@ -383,8 +383,8 @@ if(date("m")=="02") {
                                 <div class="clear"></div>
                             </div>
                             <div class="tweet_data">
-			        			RT 
-                                <a href="https://twitter.com/Scripture_Truth" target="_blank" rel="nofollow">@Scripture_Truth</a>: Consider it pure joy, whenever u face trials of many kinds, because u know that the testing of your faith develops perseverance. -Jame 1:2			        	
+			        			RT
+                                <a href="https://twitter.com/Scripture_Truth" target="_blank" rel="nofollow">@Scripture_Truth</a>: Consider it pure joy, whenever u face trials of many kinds, because u know that the testing of your faith develops perseverance. -Jame 1:2
                             </div>
                             <br>
                             <div class="clear"></div>
@@ -403,8 +403,8 @@ if(date("m")=="02") {
                                 <div class="clear"></div>
                             </div>
                             <div class="tweet_data">
-		        				RT 
-                                <a href="https://twitter.com/BibleIsGodsWord" target="_blank" rel="nofollow">@BibleIsGodsWord</a>: Luke 21:33 - Heaven and earth will pass away, but my words will not pass away.			        	
+		        				RT
+                                <a href="https://twitter.com/BibleIsGodsWord" target="_blank" rel="nofollow">@BibleIsGodsWord</a>: Luke 21:33 - Heaven and earth will pass away, but my words will not pass away.
                             </div>
                             <br>
                             <div class="clear"></div>
@@ -423,9 +423,9 @@ if(date("m")=="02") {
                                 <div class="clear"></div>
                             </div>
                             <div class="tweet_data">
-	        					RT 
+	        					RT
                                 <a href="https://twitter.com/BibleIsGodsWord" target="_blank" rel="nofollow">@BibleIsGodsWord</a>: Matt. 8:8 - “Lord, I am not worthy to have you enter under my roof;
-only say the word and my servant will be healed." 
+only say the word and my servant will be healed."
                                 <a href="https://t.co/uqfknirNPw" target="_blank" rel="nofollow">https://t.co/uqfknirNPw</a>
                             </div>
                             <br>
@@ -440,7 +440,7 @@ only say the word and my servant will be healed."
                         <div class="clear"></div>
                     </li>
                 </ul>
-        		
+
             </div>
         </div>
     </section>
@@ -482,7 +482,7 @@ only say the word and my servant will be healed."
                                         <div id="give-form-508-wrap" class="give-form-wrap give-display-modal">
                                             <div class="goal-progress">
                                                 <div class="raised">
-                                                    <span class="income">$125,906.00</span> of 
+                                                    <span class="income">$125,906.00</span> of
                                                     <span class="goal-text">$200,000.00 raised</span>
                                                 </div>
                                                 <div class="progress-bar">
@@ -504,7 +504,7 @@ only say the word and my servant will be healed."
                                                        <span class="give-currency-symbol give-currency-position-before">$</span>
                                                        <input class="give-text-input" name="give-amount" placeholder="" value="0.00" required autocomplete="off" type="tel">
                                                        <p class="give-loading-text give-updating-price-loader" style="display: none;">
-                                                        <span class="give-loading-animation"></span> Updating Amount					
+                                                        <span class="give-loading-animation"></span> Updating Amount
                                                         <span class="elipsis">.</span>
                                                         <span class="elipsis">.</span>
                                                         <span class="elipsis">.</span>
@@ -739,7 +739,7 @@ only say the word and my servant will be healed."
                         <div class="uk-width-1-1">
                             <h3 class="uk-panel-header uk-accordion-title tm-accordion-title uk-active">Where Can I Find my Purchase Code?</h3>
                             <div aria-expanded="true" role="complementary" data-wrapper="true" style="overflow:hidden;height:0;position:relative;">
-                                <div class="uk-accordion-content">Nam in ultricies quam. Integer ut semper augue. Duis ut hendrerit tortor. Nunc pretium magna risus, ut dictum augue ornare in. Nulla vitae faucibus risus. Curabitur nec tortor porttitor, mollis…                        
+                                <div class="uk-accordion-content">Nam in ultricies quam. Integer ut semper augue. Duis ut hendrerit tortor. Nunc pretium magna risus, ut dictum augue ornare in. Nulla vitae faucibus risus. Curabitur nec tortor porttitor, mollis…
                                 <a href="#" class="read-more">read more</a>
                                 </div>
                             </div>
@@ -747,7 +747,7 @@ only say the word and my servant will be healed."
                         <div class="uk-width-1-1">
                             <h3 class="uk-panel-header uk-accordion-title tm-accordion-title">Getting Support For Your Item</h3>
                             <div aria-expanded="false" role="complementary" data-wrapper="true" style="overflow:hidden;height:0;position:relative;">
-                                <div class="uk-accordion-content">Integer ut semper augue. Duis ut hendrerit tortor. Nunc pretium magna risus, ut dictum augue ornare in. Nulla vitae faucibus risus. Curabitur nec tortor porttitor, mollis purus sodales, fermentum enim.…                        
+                                <div class="uk-accordion-content">Integer ut semper augue. Duis ut hendrerit tortor. Nunc pretium magna risus, ut dictum augue ornare in. Nulla vitae faucibus risus. Curabitur nec tortor porttitor, mollis purus sodales, fermentum enim.…
                                 <a href="#" class="read-more">read more</a>
                                 </div>
                             </div>
@@ -755,7 +755,7 @@ only say the word and my servant will be healed."
                         <div class="uk-width-1-1">
                             <h3 class="uk-panel-header uk-accordion-title tm-accordion-title">Can I Get A Refund?</h3>
                             <div aria-expanded="false" role="complementary" data-wrapper="true" style="overflow:hidden;height:0;position:relative;">
-                                <div class="uk-accordion-content">Praesent ullamcorper ornare pharetra. Vestibulum est ipsum, condimentum non sollicitudin sollicitudin, lobortis nec urna. Nulla condimentum sem nec felis vehicula, nec ultricies orci suscipit. Nunc auctor rhoncus volutpat. Class aptent…                        
+                                <div class="uk-accordion-content">Praesent ullamcorper ornare pharetra. Vestibulum est ipsum, condimentum non sollicitudin sollicitudin, lobortis nec urna. Nulla condimentum sem nec felis vehicula, nec ultricies orci suscipit. Nunc auctor rhoncus volutpat. Class aptent…
                                     <a href="#" class="read-more">read more</a>
                                 </div>
                             </div>
@@ -763,7 +763,7 @@ only say the word and my servant will be healed."
                         <div class="uk-width-1-1">
                             <h3 class="uk-panel-header uk-accordion-title tm-accordion-title">Which Author Payment Option Do I Choose?</h3>
                             <div aria-expanded="false" role="complementary" data-wrapper="true" style="overflow:hidden;height:0;position:relative;">
-                                <div class="uk-accordion-content">Sed dictum urna quis tortor auctor, vel auctor arcu mollis. Nulla aliquet sollicitudin ipsum, nec laoreet metus rhoncus eget. Phasellus vitae imperdiet ligula. Donec nec nunc euismod odio imperdiet ornare.…                        
+                                <div class="uk-accordion-content">Sed dictum urna quis tortor auctor, vel auctor arcu mollis. Nulla aliquet sollicitudin ipsum, nec laoreet metus rhoncus eget. Phasellus vitae imperdiet ligula. Donec nec nunc euismod odio imperdiet ornare.…
                                 <a href="#" class="read-more">read more</a>
                                 </div>
                             </div>
@@ -771,7 +771,7 @@ only say the word and my servant will be healed."
                         <div class="uk-width-1-1">
                             <h3 class="uk-panel-header uk-accordion-title tm-accordion-title">Envato Market and Intellectual Property</h3>
                             <div aria-expanded="false" role="complementary" data-wrapper="true" style="overflow:hidden;height:0;position:relative;">
-                                <div class="uk-accordion-content">Etiam interdum enim risus, a dictum lacus eleifend nec. Donec dui nisi, faucibus nec eros vitae, posuere vehicula erat. Proin id posuere metus. Nunc quam lectus, laoreet id venenatis at,…                        
+                                <div class="uk-accordion-content">Etiam interdum enim risus, a dictum lacus eleifend nec. Donec dui nisi, faucibus nec eros vitae, posuere vehicula erat. Proin id posuere metus. Nunc quam lectus, laoreet id venenatis at,…
                                 <a href="#" class="read-more">read more</a>
                                 </div>
                             </div>
@@ -779,7 +779,7 @@ only say the word and my servant will be healed."
                         <div class="uk-width-1-1">
                             <h3 class="uk-panel-header uk-accordion-title tm-accordion-title">Envato Market Content Policy</h3>
                             <div aria-expanded="false" role="complementary" data-wrapper="true" style="overflow:hidden;height:0;position:relative;">
-                                <div class="uk-accordion-content">Morbi dignissim augue et elit venenatis, a consequat neque faucibus. Integer cursus mauris vitae dolor tincidunt pulvinar. Fusce sagittis scelerisque scelerisque. Praesent condimentum sapien et dui sagittis, ac dapibus augue…                        
+                                <div class="uk-accordion-content">Morbi dignissim augue et elit venenatis, a consequat neque faucibus. Integer cursus mauris vitae dolor tincidunt pulvinar. Fusce sagittis scelerisque scelerisque. Praesent condimentum sapien et dui sagittis, ac dapibus augue…
                                 <a href="#" class="read-more">read more</a>
                                 </div>
                             </div>
@@ -787,7 +787,7 @@ only say the word and my servant will be healed."
                         <div class="uk-width-1-1">
                             <h3 class="uk-panel-header uk-accordion-title tm-accordion-title">Was our Help Center useful?</h3>
                             <div aria-expanded="false" role="complementary" data-wrapper="true" style="overflow:hidden;height:0;position:relative;">
-                                <div class="uk-accordion-content">Donec nec nunc euismod odio imperdiet ornare. Maecenas quis ipsum rhoncus, ultrices ligula eu, interdum dui. In sit amet volutpat erat. In nunc nisl, varius a accumsan quis, imperdiet sit…                        
+                                <div class="uk-accordion-content">Donec nec nunc euismod odio imperdiet ornare. Maecenas quis ipsum rhoncus, ultrices ligula eu, interdum dui. In sit amet volutpat erat. In nunc nisl, varius a accumsan quis, imperdiet sit…
                                 <a href="#" class="read-more">read more</a>
                                 </div>
                             </div>
@@ -795,7 +795,7 @@ only say the word and my servant will be healed."
                         <div class="uk-width-1-1">
                             <h3 class="uk-panel-header uk-accordion-title tm-accordion-title">How to edit form.</h3>
                             <div aria-expanded="false" role="complementary" data-wrapper="true" style="overflow:hidden;height:0;position:relative;">
-                                <div class="uk-accordion-content">Donec nec nunc euismod odio imperdiet ornare. Maecenas quis ipsum rhoncus, ultrices ligula eu, interdum dui. In sit amet volutpat erat. In nunc nisl, varius a accumsan quis, imperdiet sit…                        
+                                <div class="uk-accordion-content">Donec nec nunc euismod odio imperdiet ornare. Maecenas quis ipsum rhoncus, ultrices ligula eu, interdum dui. In sit amet volutpat erat. In nunc nisl, varius a accumsan quis, imperdiet sit…
                                 <a href="#" class="read-more">read more</a>
                                 </div>
                             </div>
@@ -1101,7 +1101,7 @@ only say the word and my servant will be healed."
 	            	<script>
 	                    window.map = false;
 	                    window.marker = '<?=asset_url();?>images/map-marker.png';
-	                                            
+
 	                    function create_marker(marker_data){
 	                        var infowindow = new google.maps.InfoWindow({
 	                            content: '<div class="map-marker-content">'+
@@ -1120,10 +1120,10 @@ only say the word and my servant will be healed."
 	                            infowindow.open(window.map,marker);
 	                        });
 	                    }
-	                                            
+
 	                    function initialize(){
 	                        var myLatlng = new google.maps.LatLng(50.3915097,-4.1306689);
-	                    
+
 	                        var mapOptions = {
 	                            zoom:16,
 	                            center: myLatlng,
@@ -1132,10 +1132,10 @@ only say the word and my servant will be healed."
 
 	                            streetViewControl:false,
 	                            overviewMapControl:false,
-	                            mapTypeControl:false	
-								
+	                            mapTypeControl:false
+
 	                        };
-							
+
 	                        window.map = new google.maps.Map(document.getElementById('map'), mapOptions);																																																														 						create_marker({
 	                            header:'Cute Curch',
 	                            address:'Mannamead Road, Plymouth PL3 5QJ',
@@ -1144,13 +1144,13 @@ only say the word and my servant will be healed."
 	                            lat:50.3915097,
 	                            lng:-4.1306689
 	                        });
-							
+
 	                    }
-	                
+
 	                    google.maps.event.addDomListener(window, 'load', initialize);
             </script>
 	                <div id="map"></div>
-	            </div>   
+	            </div>
             </div>
         </div>
     </section>
