@@ -147,13 +147,17 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
+
+	document.getElementById("days").innerHTML = days;
+	document.getElementById("hours").innerHTML = hours;
+	document.getElementById("minutes").innerHTML = minutes;
+	document.getElementById("seconds").innerHTML = seconds;
+
 
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    //document.getElementById("demo").innerHTML = "EXPIRED";
   }
 }, 1000);
 </script>
@@ -161,50 +165,22 @@ var x = setInterval(function() {
                             <div id="countdowntimer-2-dashboard" class="cutechurch-dashboard">
                                 <div class="cutechurch-dash cutechurch-days_dash">
                                     <div class="cutechurch-dash_title">days</div>
-                                    <div class="cutechurch-digit">
-                                        <div style="display: none;" class="top">4</div>
-                                        <div style="display: block;" class="bottom">4</div>
-                                    </div>
-                                    <div class="cutechurch-digit">
-                                        <div style="display: none;" class="top">8</div>
-                                        <div style="display: block;" class="bottom">8</div>
-                                    </div>
+                                    <div id="days" class="cutechurch-digit"></div>
                                 </div>
                                 <div class="cutechurch-dash cutechurch-hours_dash">
                                     <div class="cutechurch-dash_title">hours</div>
-                                    <div class="cutechurch-digit">
-                                        <div style="display: none;" class="top">0</div>
-                                        <div style="display: block;" class="bottom">0</div>
-                                    </div>
-                                    <div class="cutechurch-digit">
-                                        <div style="display: none;" class="top">0</div>
-                                        <div style="display: block;" class="bottom">0</div>
-                                    </div>
+                                    <div id="hours" class="cutechurch-digit"></div>
                                 </div>
                                 <div class="cutechurch-dash cutechurch-minutes_dash">
                                     <div class="cutechurch-dash_title">minutes</div>
-                                    <div class="cutechurch-digit">
-                                        <div style="display: none;" class="top">2</div>
-                                        <div style="display: block;" class="bottom">2</div>
-                                    </div>
-                                    <div class="cutechurch-digit">
-                                        <div style="display: none;" class="top">6</div>
-                                        <div style="display: block;" class="bottom">6</div>
-                                    </div>
+                                    <div id="minutes" class="cutechurch-digit"></div>
                                 </div>
                                 <div class="cutechurch-dash cutechurch-seconds_dash">
                                     <div class="cutechurch-dash_title">seconds</div>
-                                    <div class="cutechurch-digit">
-                                        <div style="display: none;" class="top">2</div>
-                                        <div style="display: block;" class="bottom">2</div>
-                                    </div>
-                                    <div class="cutechurch-digit">
-                                        <div style="display: none;" class="top">7</div>
-                                        <div style="display: block;" class="bottom">7</div>
-                                    </div>
+                                    <div id="seconds" class="cutechurch-digit"></div>
                                 </div>
                             </div>
-                        
+
                             <div id="countdowntimer-2-bothtml" class="cutechurch-bothtml"></div>
                         </div>
                     </div>
