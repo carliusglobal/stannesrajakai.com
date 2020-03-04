@@ -108,18 +108,7 @@
 	</section>
 </div>
 
-<?php
-if(date("m")=="02") {
-    $feast = "feast";
-    $feast_stt_date[$feast] = "17";
-    $feast_stt_month[$feast] = "07";
-    $feast_stt_year[$feast] = date("Y");
 
-    $feast_end_date[$feast] = "26";
-    $feast_end_month[$feast] = "07";
-    $feast_end_year[$feast] = date("Y");
-}
-?>
 <div class="tm-top-a-box tm-dark-pattern-bg">
     <div class="uk-container uk-container-center">
         <section class="tm-top-a uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
@@ -131,10 +120,10 @@ if(date("m")=="02") {
                                 <h1 class="tm-title tcenter">
                                     <span class="border">Upcoming Event</span>
                                 </h1>
-                                <p>புனித அன்னம்மாள் ஆலய திருவிழா <?=$feast_end_year[$feast]?></p>
+                                <p>புனித அன்னம்மாள் ஆலய திருவிழா 2020</p>
                                 <h4>
                                     <span class="brackets">
-                                        <a href="/" class="tm-color-line"><?=$feast_stt_date[$feast]?>-<?=$feast_stt_month[$feast]?>-<?=$feast_stt_year[$feast]?> to <?=$feast_end_date[$feast]?>-<?=$feast_end_month[$feast]?>-<?=$feast_end_year[$feast]?></a>
+                                        <a href="/" class="tm-color-line">17 July 2020 to 26 July 2020</a>
                                     </span>
                                 </h4>
                             </div>
