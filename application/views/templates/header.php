@@ -53,13 +53,15 @@
 						<nav class="uk-navbar">
 							<!--tm-navbar (hide defolt styles) -->
 							<ul class="uk-navbar-nav uk-hidden-small">
-								<li class="uk-parent uk-active" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
+								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="<?=base_url();?>" class="">முகப்பு</a>
 								</li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="<?=base_url();?>index.php/sundaymass" class="">ஞாயிறு திருப்பலி</a></li>
 									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 										<a href="<?=base_url();?>index.php/livetv" class="">இரஜகை நேரலை</a></li>
+										<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
+											<a href="<?=base_url();?>index.php/alivetv" class="">அழகை நேரலை</a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="<?=base_url();?>index.php/parishhistory" class="">பங்கின் வரலாறு </a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
