@@ -61,7 +61,7 @@
 									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 										<a href="<?=base_url();?>index.php/livetv" class="">இரஜகை நேரலை</a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="<?=base_url();?>index.php/parishhistory" class="">PARISH HISTORY</a></li>
+									<a href="<?=base_url();?>index.php/parishhistory" class="">பங்கின் வரலாறு </a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="<?=base_url();?>index.php/massandnovena" class="">MASS AND NOVENA</a></li>
 

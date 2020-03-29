@@ -26,13 +26,17 @@
         <div class="tm-main uk-width-medium-1-1 tm-middle">
             <main class="tm-content">
                 <section>
-                    
+
                     <div id="primary" class="site-content post-content">
                         <div class="main-heading">
-                            <h1 class="tm-page-title">Mass and Devotions</h1>
+                            <h1 class="tm-page-title">பங்கின் வழிபாடுகள் திருப்பலி</h1>
                         </div>
                         <div id="content" role="main">
+                          <div>
+                        <img src="<?=asset_url();?>images/mass_timings.png"/>
+                    </div>
 
+                          <h2 class="tribe-events-single-event-title summary entry-title">Mass timings and events</h2>
                             <h3>Sunday Mass Timings</h3>
                             <p>Early Morning 5.00 am First Mass</p>
                             <p>Morning 7.00 am Second Mass</p>
@@ -68,14 +72,11 @@
 
                             <h3>St Antony's Church, Parappuviali Feast</h3>
                             <p>Tuesday before Ash Wednesday</p>
-                            
+
                             <h3>Rajakai's Asanam</h3>
                             <p>First Tuesday of December</p>
 
-                            <h2 class="tribe-events-single-event-title summary entry-title">Mass timings and events in tamil</h2>
-                                  <div>
-                                <img src="<?=asset_url();?>images/mass_timings.png"/>
-                            </div>
+
 
                         </div>
                         <!-- #content -->

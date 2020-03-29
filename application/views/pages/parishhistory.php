@@ -26,10 +26,10 @@
         <div class="tm-main uk-width-medium-1-1 tm-middle">
             <main class="tm-content">
                 <section>
-                    
+
                     <div id="primary" class="site-content post-content">
                         <div class="main-heading">
-                            <h1 class="tm-page-title">Parish History</h1>
+                            <h1 class="tm-page-title">பங்கின் வரலாறு </h1>
                         </div>
 
                          <div>
