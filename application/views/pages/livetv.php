@@ -29,7 +29,7 @@
 
                     <div id="primary" class="site-content post-content">
                         <div class="main-heading">
-                            <h1 class="tm-page-title">Sunday Mass</h1>
+                            <h1 class="tm-page-title">இரஜகை நேரலை</h1>
                         </div>
 
                        <iframe style=" width: 1060px;height: 600px;margin: 0 auto;background-color: #777;display:block;" src="https://www.youtube.com/embed/live_stream?channel=UCxV4u6RRTZ0SLqOx-1xSoZQ" width="560" height="349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
