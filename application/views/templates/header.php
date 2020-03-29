@@ -63,10 +63,10 @@
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="<?=base_url();?>index.php/parishhistory" class="">பங்கின் வரலாறு </a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="<?=base_url();?>index.php/massandnovena" class="">வழிபாடு நிகழ்வுகள் </a></li>
+									<a href="<?=base_url();?>index.php/massandnovena" class="">பங்கின் வழிபாடு </a></li>
 
 									<li>
-										<a href="<?=base_url();?>index.php/event" class="">EVENT</a>
+										<a href="<?=base_url();?>index.php/event" class="">நிகழ்வுகள்</a>
 									</li>
 									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 										<a href="#" class="">PRAYERS</a>
