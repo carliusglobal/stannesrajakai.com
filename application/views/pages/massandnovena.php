@@ -29,7 +29,7 @@
 
                     <div id="primary" class="site-content post-content">
                         <div class="main-heading">
-                            <h1 class="tm-page-title">பங்கின் வழிபாடுகள் திருப்பலி</h1>
+                            <h1 class="tm-page-title">பங்கின் வழிபாடு நிகழ்வுகள்</h1>
                         </div>
                         <div id="content" role="main">
                           <div>
