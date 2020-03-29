@@ -57,7 +57,9 @@
 									<a href="<?=base_url();?>" class="">HOME</a>
 								</li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="<?=base_url();?>index.php/livetv" class="">Sunday Mass</a></li>
+									<a href="<?=base_url();?>index.php/sundaymass" class="">ஞாயிற்று திருப்பலி</a></li>
+									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
+										<a href="<?=base_url();?>index.php/livetv" class="">நேரடி ஒளிபரப்பு</a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="<?=base_url();?>index.php/parishhistory" class="">PARISH HISTORY</a></li>
 								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
