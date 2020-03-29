@@ -69,7 +69,7 @@
 										<a href="<?=base_url();?>index.php/event" class="">நிகழ்வுகள்</a>
 									</li>
 									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-										<a href="#" class="">PRAYERS</a>
+										<a href="#" class="">PRAYERS- <?=$this->load->helper('url');?></a>
 										<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
 											<div class="uk-grid uk-dropdown-grid">
 												<div class="uk-width-1-1">
