@@ -16,7 +16,7 @@ html {
   -ms-text-size-adjust: 100%;
   /* 3 */
   background: #f8f4f0;
-  color: #b3b8c5;
+  color: #000000;
 }
 /*
  * Removes default margin.
@@ -325,7 +325,7 @@ pre {
   /* 1 */
   overflow: auto;
 }
-/* Selection pseudo-element 
+/* Selection pseudo-element
  ========================================================================== */
 ::-moz-selection {
   background: #3399ff;
@@ -9270,12 +9270,12 @@ html {
 4.  Theme elements styles                        - Theme elements styles         (line 397 )
     (blockquote, buttons, ... )
 5.  Theme heading styles                         - H1-H6 default styles          (line 648 )
-    (default heading properties)                        
+    (default heading properties)
 6.  Theme color styles                           - Themes styles color styles    (line 737 )
 7.  Header offset styles                         - Header offset                 (line 803 )
 8.  Transparent background styles                - Transparent background        (line 825 )
     (adress+logo+social-icons widgets area)
-9.  Social icons default styles                  - Social icons                  (line 840 )      
+9.  Social icons default styles                  - Social icons                  (line 840 )
 10. Main navigation area styles                  - Main navigation               (line 871 )
     (nav, navbar, dropdown)
 11. Breadcrumbs widgets area styles              - Breadcrumbs                   (line 1003)
@@ -9284,13 +9284,13 @@ html {
 13. Footer widgets area styles                   - Footer                        (line 1118)
 14. Default WordPress Category page styles       - Category page                 (line 1165)
 15. Testimonials Category page styles            - Testimonials Category         (line 1194)
-16. Sermons Category Single post styles          - Single Sermons                (line 1203) 
+16. Sermons Category Single post styles          - Single Sermons                (line 1203)
 17. Contact Form 7 style                         - Contact Form 7 style          (line 1229)
     (WordPress widget, forms elements, comments)
 18. Default WordPress widgets elements styles    - RSS widget                    (line 1327)
     (RSS widget)
 19. Default WordPress widgets elements styles    - Text widget                   (line 1346)
-	(Text widget, 
+	(Text widget,
 	 text widget with 4 items / block solution,
 	 text widget with achievements)
 20. Default WordPress Categories widgets styles  - Categories widget             (line 1451)
@@ -9299,15 +9299,15 @@ html {
     (Tags cloud widget)
 22. Testimonials widget styles                   - Testimonials widget           (line 1479)
 23. Slideset widget elements styles              - Slideset styles               (line 1539)
-24. Post Gallery                                 - Post Gallery                  (line 1573) 
+24. Post Gallery                                 - Post Gallery                  (line 1573)
 25. Post thumbnails image widget                 - Post image widget             (line 1605)
 26. Main slider styles                           - Main slider                   (line 1612)
     (frontpage slider, page slider)
 27. Bible Text & Twitter widgets elements styles - Bible Text, Twitter           (line 1679)
-    (Bible Text + Twitter + Text Slider, 
-     recent twitts tree items)        
+    (Bible Text + Twitter + Text Slider,
+     recent twitts tree items)
 28. Futured Events widget styles                 - Futured Events                (line 1779)
-    (frontpage, future events with 3 items 
+    (frontpage, future events with 3 items
      in row)
 29. Futured Posts list widget styles             - Futured Posts/list            (line 1984)
 30. Latest Posts widget styles                   - Latest Posts                  (line 2078)
@@ -9319,7 +9319,7 @@ html {
 35. FAQ widget styles                            - FAQ                           (line 2260)
 36. Donation widget forms styles                 - Donation                      (line 2298)
     (donation forms, donations goal-progress,
-     donation modal form, latest donation 
+     donation modal form, latest donation
      widget)
 37. Category list widget styles                  - Category list                 (line 2596)
     (sidebar)
@@ -9329,17 +9329,17 @@ html {
     (sidebar)
 40. Event widget styles                          - Event                         (line 2686)
     (events sidebar view, event post images,
-     single event, event list page, event 
-     calendar, event calendar tooltip, event 
+     single event, event list page, event
+     calendar, event calendar tooltip, event
      registration)
 41. Gallery page styles                          - Gallery page                  (line 3082)
 42. Donation category page styles                - Donation page                 (line 3102)
 43. Woocommerce WordPress plugin styles          - Woocommerce                   (line 3119)
-    (shop categories sidebar, search products 
-     sidebar, recent reviews widget, top rated 
+    (shop categories sidebar, search products
+     sidebar, recent reviews widget, top rated
      products widgetwoocommerce, outline-style,
-     list & grid product views, products sort 
-     options, products per page, onsale lable, 
+     list & grid product views, products sort
+     options, products per page, onsale lable,
      woocommerce message, cart)
 44. Error page theme styles                     - Error page                     (line 3492)
      (main styles, phone landscape and smaller)
@@ -10646,7 +10646,7 @@ ul.uk-breadcrumb li.uk-active span {
   text-decoration: none;
   opacity: 1;
 }
-/* Comments 
+/* Comments
  ========================================================================== */
 form.uk-form {
   border: 1px solid #cdd4e8;
@@ -10709,7 +10709,7 @@ form.uk-form {
   background: #e2bf1d;
   color: #f0f2f8;
 }
-/* Footer 
+/* Footer
  ========================================================================== */
 .tm-footer-top-box,
 footer {
@@ -10941,7 +10941,7 @@ div.wpcf7-response-output {
   width: auto;
   padding: 11px 20px;
 }
-/* RSS widget 
+/* RSS widget
  ========================================================================== */
 .widget_rss a.rsswidget {
   display: block;
@@ -11073,7 +11073,7 @@ div.wpcf7-response-output {
   font-size: 70px;
   line-height: 70px;
 }
-/* Categories widget 
+/* Categories widget
  ========================================================================== */
 .widget_categories ul li {
   font-size: 14px;
@@ -11084,7 +11084,7 @@ div.wpcf7-response-output {
 .uk-list-line > li:nth-child(n+2) {
   border: none;
 }
-/* Tags widget 
+/* Tags widget
  ========================================================================== */
 .widget_tag_cloud a {
   display: inline-block;
@@ -11817,7 +11817,7 @@ ul.tm-category-posts-list {
   margin: 0;
   padding: 0;
 }
-/* Image Carousel 
+/* Image Carousel
  ========================================================================== */
 .CutePostGallery .uk-slidenav {
   background-color: rgba(0, 0, 0, 0.6);
@@ -11850,7 +11850,7 @@ ul.tm-category-posts-list {
   margin: 20px;
   background-color: rgba(226, 191, 29, 0.8);
 }
-/* Location 
+/* Location
  ========================================================================== */
 .tm-location-widget p {
   margin: 0;
