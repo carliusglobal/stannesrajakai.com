@@ -23,13 +23,13 @@
                                                     குருத்து ஞாயிறு நேரலை - இயேசு கிறிஸ்துவின் பாடுகள் - 5 ஏப்ரல் 2020
                                                     <br/>
                                                     <!--நிகழ்ச்சிகளை நேரலையில் நமது ஊர் websiteல் காண ஏற்பாடு செய்யப்பட்டுள்ளது.  -->
-                                                    <br/>
+                                                    <!--<br/>
                                                     <a href="/index.php/sundaymass">குருத்து ஞாயிறு பதிவு </a>
-                                                    <br/>
+                                                    <br/>-->
                                                     </div>
 
 												</div>
-												<a href="/index.php/livetv" class="tm-imageslider-button color-light">நேரலை...<i class="uk-icon-long-arrow-right"></i></a>
+												<a href="/index.php/sundaymass" class="tm-imageslider-button color-light">குருத்து ஞாயிறு திருப்பலி பதிவு</a>
 											</div>
 										</div>
 									</div>
