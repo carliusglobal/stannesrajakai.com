@@ -32,7 +32,7 @@
                             <h1 class="tm-page-title">குருத்து ஞாயிறு திருப்பலி</h1>
                         </div>
                         <div>5:30 am Sunday, Indian Standard Time (IST)</div>
-                        <div>இந்திய நேரம் ஆதிகாலை 5:30 மணி </div>
+                        <div>இந்திய நேரம் காலை 5:30 மணி </div>
 <iframe style=" width: 1060px;height: 600px;margin: 0 auto;background-color: #777;display:block;" src="https://www.youtube.com/embed/1XIA8JBPgNQ"  width="560" height="349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--
                        <iframe style=" width: 1060px;height: 600px;margin: 0 auto;background-color: #777;display:block;" src="https://www.youtube.com/embed/live_stream?channel=UCxV4u6RRTZ0SLqOx-1xSoZQ" width="560" height="349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
