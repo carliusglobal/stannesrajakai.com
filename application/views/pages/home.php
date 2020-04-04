@@ -118,7 +118,7 @@
                         <div class="cutechurch-countdown omitweeks">
                             <div id="countdowntimer-2-tophtml" class="cutechurch-tophtml">
                                 <h1 class="tm-title tcenter">
-                                    <span class="border">Upcoming Event</span>
+                                    <span class="border">வருங்கால நிகழ்வு</span>
                                 </h1>
                                 <p>புனித அன்னம்மாள் ஆலய திருவிழா 2020</p>
                                 <h4>
