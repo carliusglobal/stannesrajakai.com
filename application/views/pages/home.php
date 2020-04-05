@@ -18,7 +18,7 @@
 											<div class="tm-slide-style-1 uk-width-1-1">
 												<div class="">
 													<div class="imageslider-background"><h3 class="slide-head">புனித அன்னம்மாள் ஆலயம், இரஜகை</h3></div><br>
-													<div style="padding: 10px;" class="imageslider-background"><h3 class="slide-head"></h3>
+													<div style="padding: 10px;" class="imageslider-background"><h3 class="slide-head">குருத்து ஞாயிறு நேரலை - இயேசு கிறிஸ்துவின் பாடுகள் - 5 ஏப்ரல் 2020</h3>
                                                     <!--இன்று November 10, 2019 பரலோக அன்னை விழி திறந்த விழாவை கொண்டாடும் இந்நன்னாளில் மதிய செப வழிபாடு (12:00 to 14:00 pm) மற்றும் தேர் பவனி மாலை 7:00 pm ஆடம்பர கூட்டு திருப்பலி & விருந்து -->
                                                     குருத்து ஞாயிறு நேரலை - இயேசு கிறிஸ்துவின் பாடுகள் - 5 ஏப்ரல் 2020
                                                     <br/>
