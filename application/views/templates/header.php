@@ -68,6 +68,8 @@
 									<li>
 										<a href="<?=base_url();?>index.php/event" class="">நிகழ்வுகள்</a>
 									</li>
+
+									<!--
 									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 										<a href="#" class="">PRAYERS</a>
 										<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
@@ -85,6 +87,7 @@
 									<li>
 										<a href="<?=base_url();?>index.php/daily-reading?readingdate=<?=date("mdy")?>" class="">DAILY READING</a>
 									</li>
+								-->
 
 								</ul>
 								<a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas=""></a>
