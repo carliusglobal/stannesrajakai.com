@@ -29,14 +29,13 @@
 
                     <div id="primary" class="site-content post-content">
                         <div class="main-heading">
-                            <h1 class="tm-page-title">குருத்து ஞாயிறு திருப்பலி</h1>
+                            <h1 class="tm-page-title">குருத்து ஞாயிறு திருப்பலி\</h1>
                         </div>
-                        <div><a href="#tamil_mass">Tamil Mass from Malaysia</div>
-                        <div>இந்திய நேரம் காலை 5:30 மணி </div>
+                        <h2><a href="#tamil_mass">Tamil Mass from Malaysia</h2>
+
 <iframe style=" width: 1060px;height: 600px;margin: 0 auto;background-color: #777;display:block;" src="https://www.youtube.com/embed/1XIA8JBPgNQ"  width="560" height="349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div><a href="#pope_mass">POPE Mass from Vatican</a></div>
-<div>இந்திய நேரம் காலை 2:30 மணி </div>
+<h2><a href="#pope_mass">Pope Francis Palm Sunday Mass from Vatican City</a></h2>
 <iframe style=" width: 1060px;height: 600px;margin: 0 auto;background-color: #777;display:block;" src="https://www.youtube.com/embed/ZUiQrN6edmk"  width="560" height="349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

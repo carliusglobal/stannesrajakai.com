@@ -31,7 +31,7 @@
 
 												</div>
 												<a href="/index.php/sundaymass#tamil_mass" class="tm-imageslider-button color-light">குருத்து ஞாயிறு திருப்பலி பதிவு</a>
-												<a href="/index.php/sundaymass#pope_mass" class="tm-imageslider-button color-light">POPE Mass from Vatican</a>
+												<a href="/index.php/sundaymass#pope_mass" class="tm-imageslider-button color-light">Pope Francis Palm Sunday Mass from Vatican City</a>
 											</div>
 										</div>
 									</div>
