@@ -33,6 +33,7 @@
                         </div>
                         <br/>
                         <h2><a href="#tamil_mass">Tamil Mass from Malaysia</h2>
+                        <a href="#pope_mass">Click here for Pope Mass</a>
 
 <iframe style=" width: 1060px;height: 600px;margin: 0 auto;background-color: #777;display:block;" src="https://www.youtube.com/embed/1XIA8JBPgNQ"  width="560" height="349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
