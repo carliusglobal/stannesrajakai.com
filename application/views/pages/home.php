@@ -19,9 +19,9 @@
 												<div class="">
 													<div class="imageslider-background"><h3 class="slide-head">புனித அன்னம்மாள் ஆலயம், இரஜகை</h3></div><br>
 													<div style="padding: 10px;" class="imageslider-background">
-														
+
                                                     <!--இன்று November 10, 2019 பரலோக அன்னை விழி திறந்த விழாவை கொண்டாடும் இந்நன்னாளில் மதிய செப வழிபாடு (12:00 to 14:00 pm) மற்றும் தேர் பவனி மாலை 7:00 pm ஆடம்பர கூட்டு திருப்பலி & விருந்து -->
-                                                    குருத்து ஞாயிறு நேரலை - இயேசு கிறிஸ்துவின் பாடுகள் - 5 ஏப்ரல் 2020
+                                                    Last supper mass in tamil - 9 ஏப்ரல் 2020
                                                     <br/>
 
                                                     <!--நிகழ்ச்சிகளை நேரலையில் நமது ஊர் websiteல் காண ஏற்பாடு செய்யப்பட்டுள்ளது.  -->
@@ -31,8 +31,7 @@
                                                     </div>
 
 												</div>
-												<a href="/index.php/sundaymass#tamil_mass" class="tm-imageslider-button color-light">குருத்து ஞாயிறு திருப்பலி பதிவு</a>
-												<a href="/index.php/sundaymass#pope_mass" class="tm-imageslider-button color-light">Pope Francis Palm Sunday Mass from Vatican City</a>
+												<a href="/index.php/sundaymass#tamil_mass" class="tm-imageslider-button color-light">last supper mass in tamilு</a>
 											</div>
 										</div>
 									</div>
