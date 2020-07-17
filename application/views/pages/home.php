@@ -30,7 +30,8 @@
                                                     <!--</div>-->
 
 												<!--</div>-->
-												<a href="/index.php/sundaymass#tamil_mass" class="tm-imageslider-button color-dark">Rajakai Live</a>
+												<!--<a href="/index.php/livetv" class="tm-imageslider-button color-dark">Rajakai Live</a>-->
+                                                <a class="button" href="/index.php/livetv">Click me!</a>
 											</div>
 										</div>
 									</div>
