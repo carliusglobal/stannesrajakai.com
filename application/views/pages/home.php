@@ -75,6 +75,7 @@
   100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
 }
                                                 </style>
+                                                <br/>
                                                 <a class="rajakai_live" href="/index.php/livetv">Rajakai Live</a>
 											</div>
 										</div>
@@ -175,7 +176,17 @@
                             </div>
 														<script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jul 17, 2020 00:00:00").getTime();
+var d = new Date();
+
+var y = d.getFullYear()+1;
+var m = d.getMonth();
+var ya = d.getFullYear();
+var da = d.getDate();
+
+if (m == 6 && da < 17) 
+ var countDownDate = new Date("Jul 17, "+ya.toString()+" 00:00:00").getTime();
+else if (m == 6 && da >= 17) 
+ var countDownDate = new Date("Jul 17, "+y.toString()+" 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -193,11 +204,18 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   // Display the result in the element with id="demo"
-
+if (m == 6 && da >= 17 && da <= 27) {
+    document.getElementById("days").innerHTML = 0;
+    document.getElementById("hours").innerHTML = 0;
+    document.getElementById("minutes").innerHTML = 0;
+    document.getElementById("seconds").innerHTML = 0; 
+} 
+else {
 	document.getElementById("days").innerHTML = days;
 	document.getElementById("hours").innerHTML = hours;
 	document.getElementById("minutes").innerHTML = minutes;
 	document.getElementById("seconds").innerHTML = seconds;
+}
 
 
   // If the count down is finished, write some text
