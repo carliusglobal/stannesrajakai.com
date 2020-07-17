@@ -30,7 +30,7 @@
                                                     <!--</div>-->
 
 												<!--</div>-->
-                                                <canvas id="birthday"></canvas>
+                                                
 												<a href="#" class="tm-imageslider-button color-dark">இனிய திருநாள் நல்வாழ்த்துக்கள் </a>
                                                 <style>
 
