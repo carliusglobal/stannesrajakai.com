@@ -171,7 +171,7 @@
                                 <p>புனித அன்னம்மாள் ஆலய திருவிழா 2020</p>
                                 <h4>
                                     <span class="brackets">
-                                        <a href="/" class="tm-color-line">17 July 2020 to 26 July 2020</a>
+                                        <a href="/" class="tm-color-line">17 July 2021 to 26 July 2021</a>
                                     </span>
                                 </h4>
                             </div>
