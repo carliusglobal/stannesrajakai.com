@@ -46,56 +46,7 @@
 				</div>
 			</div>
 		</div>
-		<div style="height: 72px;" class="uk-sticky-placeholder">
-			<div style="margin: 0px;" class="tm-fixed-menu" data-uk-sticky="">  <!-- Start fixed menu-->
-				<div class="tm-nav-a-box">
-					<div class="uk-container uk-container-center">
-						<nav class="uk-navbar">
-							<!--tm-navbar (hide defolt styles) -->
-							<ul class="uk-navbar-nav uk-hidden-small">
-								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="<?=base_url();?>" class="">முகப்பு</a>
-								</li>
-								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="<?=base_url();?>index.php/sundaymass" class="">குருத்து ஞாயிறு திருப்பலி</a></li>
-									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-										<a href="<?=base_url();?>index.php/livetv" class="">இரஜகை நேரலை</a></li>
-								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="<?=base_url();?>index.php/parishhistory" class="">பங்கின் வரலாறு </a></li>
-								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-									<a href="<?=base_url();?>index.php/massandnovena" class="">பங்கின் வழிபாடு </a></li>
 
-									<li>
-										<a href="<?=base_url();?>index.php/event" class="">நிகழ்வுகள்</a>
-									</li>
-
-									<!--
-									<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
-										<a href="#" class="">PRAYERS</a>
-										<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
-											<div class="uk-grid uk-dropdown-grid">
-												<div class="uk-width-1-1">
-													<ul class="uk-nav uk-nav-navbar">
-														<li>
-															<a href="<?=base_url();?>index.php/novena-english" class="">Novena to St. Annes</a>
-														</li>
-													</ul>
-												</div>
-											</div>
-										</div>
-									</li>
-									<li>
-										<a href="<?=base_url();?>index.php/daily-reading?readingdate=<?=date("mdy")?>" class="">DAILY READING</a>
-									</li>
-								-->
-
-								</ul>
-								<a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas=""></a>
-						</nav>
-					</div>
-				</div>
-			</div>
-		</div>
 		<!-- End fixed menu-->
 		<div class="breadcrumbs">
 			<div class="uk-container uk-container-center breadcrumbs-box"></div>
