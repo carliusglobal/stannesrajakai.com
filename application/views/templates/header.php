@@ -7,6 +7,7 @@
 <title>புனித&nbsp;அன்னம்மாள்&nbsp;ஆலயம்,&nbsp;இரஜகை</title>
 
 <link href="<?=asset_url();?>css/theme.css" rel="stylesheet" type="text/css" />
+<link rel="icon" href="<?=asset_url()?>/images/greatlogo.png" type="image/gif">
 <link href="<?=asset_url();?>css/woocommerce.css" rel="stylesheet" type="text/css" />
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
