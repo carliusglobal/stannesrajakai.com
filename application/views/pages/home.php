@@ -30,8 +30,8 @@
                                                     <!--</div>-->
 
 												<!--</div>-->
-                                                
-												<a href="#" class="tm-imageslider-button color-dark">இனிய திருநாள் நல்வாழ்த்துக்கள் </a>
+                                                <!--
+												    <a href="#" class="tm-imageslider-button color-dark">இனிய திருநாள் நல்வாழ்த்துக்கள் </a>-->
                                                 <style>
 
 .rajakai_live {
@@ -77,7 +77,7 @@
 }
                                                 </style>
                                                 <br/><br/>
-                                                <a class="rajakai_live" href="/index.php/livetv">Rajakai Live</a>
+                                               <!-- <a class="rajakai_live" href="/index.php/livetv">Rajakai Live</a>-->
 											</div>
 										</div>
 									</div>
