@@ -11,6 +11,9 @@
  *
  * @var bool
  */
+echo "bearly";
+exit;
+
 define( 'WP_USE_THEMES', true );
 
 /** Loads the WordPress Environment and Template */
